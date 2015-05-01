@@ -5,10 +5,45 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2015-04-05T20:00:00-04:00</updated>
+  <updated>2015-04-30T20:00:00-04:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>May Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2015/news/may-meetups/"/>
+    <id>http://papers-we-love.github.io/2015/news/may-meetups/</id>
+    <published>2015-04-30T20:00:00-04:00</published>
+    <updated>2015-04-30T19:00:38-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for May across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Toronto 5/6&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/221921448/"&gt;Paul Osman on CRDTs  Commutative Replicated Data Types&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chicago 5/12&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Chicago/events/222024292/"&gt;An Empirical Study of the Naive Bayes Classifier&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 5/14&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/222065399/"&gt;: The LCA Problem Revisited&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Saint Louis 5/18&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-in-saint-louis/events/220570557/"&gt;The Chemical Basis of Morphogenesis (Turing)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;London 5/20&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-London/events/222094026/"&gt;Oliver Charles on "Kleisli Arrows of Outrageous Fortune"&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Berlin 5/21&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Berlin/events/221994661/"&gt;Programming concepts pioneered by McCarthy's  paper on Lisp&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Winnipeg 5/21&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Winnipeg/events/222214950/"&gt;The Bargaining Problem&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Francisco 5/21&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-too/events/212348392/"&gt;Lindsey Kuper on Ribbon Proofs for Separation Logic&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Montreal 5/25&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Montreal/events/222043241/"&gt;JohnsonLindenstrauss Lemma&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the May meetup.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Neha Narula on The Scalable Commutativity Rule</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2015/video/neha-narula-scalable-commutativity-rule/"/>
@@ -229,49 +264,6 @@ Armon (@armon) has a passion for distributed systems and their application to re
 &lt;p&gt;&lt;strong&gt;Veronica Ray&lt;/strong&gt; on &lt;a href="http://www.adrienneporterfelt.com/chi-ssl-experiment.pdf"&gt;Experimenting At Scale With Google Chrome’s SSL Warning&lt;/a&gt;. From Veronica: "Whether we are surfing the web or developing applications, browser security affects us all. This study from 2014 is the first to demonstrate why real users disregard browser security warnings. Its conclusions about the impact of warning design are surprising and inspire reflection about what we as developers can do to keep our users safe."&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Gareth Morgan&lt;/strong&gt; on &lt;a href="http://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S08/lectures/kajiya.pdf"&gt;The Rendering Equation&lt;/a&gt;. From Gareth: "This paper is one of the most important 3D graphics papers in the subject's history. It is the foundation of many of the rendering techniques used in modern graphics. I will give a short overview of the rendering equation and why it is so important for 3D graphics. This will be a taster of my full talk on this paper which I will be giving later in the year"&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Andrew Turley on the Train Algorithm - New York City 2/23</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/andrew-turley-on-the-train-algorithm/"/>
-    <id>http://papers-we-love.github.io/2015/video/andrew-turley-on-the-train-algorithm/</id>
-    <published>2015-03-01T19:00:00-05:00</published>
-    <updated>2015-04-25T11:28:30-04:00</updated>
-    <author>
-      <name>Darren</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/kpW4lCwQWHc" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Andrew Turley&lt;/strong&gt; presented &lt;a href="https://github.com/papers-we-love/papers-we-love/blob/master/garbage_collection/incremental_mature_garbage_collection_using_the_train_algorithm.pdf?raw=true"&gt;&lt;em&gt;Incremental Mature Garbage Collection Using the Train Algorithm&lt;/em&gt;&lt;/a&gt; by Jacob Seligmann &amp;amp; Steffen Grarup at the February 23, 2015 Papers We Love Meetup held at the Tumblr offices.&lt;/p&gt;
-
-&lt;p&gt;The Train Algorithm is an incremental generational garbage collector that was designed to deal with the long and unpredictable pause times caused by other algorithms. It does this by grouping objects together on "cars" in "trains". The algorithm provides a strategy for moving objects from the younger generation into different cars, moving objects from one car to another, and collecting cars and trains. It was first described by Hudson and Moss in the paper "Incremental
-Collection of Mature Objects".&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Andrew Turley&lt;/strong&gt; (&lt;a href="http://twitter.com/casio_juarez"&gt;@casio_juarez&lt;/a&gt;) is a lead software engineer on the platform team at &lt;a href="http://dev.theladders.com"&gt;TheLadders&lt;/a&gt;, where he builds infrastructure by linking Storm topologies together using RabbitMQ. He has also had numerous professional brushes with lower levels of the software stack, including building embedded systems for processing audio at DigiDesign, and helping to improve the performance of iOS at
-Apple.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
-&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank our platinum sponsor &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Additional resources&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;[mcca60] John McCarthy. Recursive functions of symbolic expressions and their computation by machine, Part I. Communications of the ACM, 3(4):184-195, April 1960.&lt;/li&gt;
-  &lt;li&gt;[bish77] Peter B. Bishop. Computer Systems with a Very Large Address Space and Garbage Collection. PhD thesis, MIT Laboratory for Computer Science, May 1977. Technical report MIT/LCS/TR-178.&lt;/li&gt;
-  &lt;li&gt;[bake78] Henry G. Baker. List processing in real-time on a serial computer. Communications of the ACM, 21(4):280-294, 1978. Also AI Laboratory Working Paper 139, 1977.&lt;/li&gt;
-  &lt;li&gt;[lieb83] Henry Lieberman and Carl E. Hewitt. A real-time garbage collector based on the lifetimes of objects. Communications of the ACM, 26(6):419-429, June 1983. Also report TM-184, Laboratory for Computer Science, MIT, Cambridge, MA, July 1980 and AI Lab Memo 569, 1981.&lt;/li&gt;
-  &lt;li&gt;[moon84] David A. Moon. Garbage collection in a large LISP system. In Steele [LFP84], 1984, pages 235-245&lt;/li&gt;
-  &lt;li&gt;[huds92] Richard L. Hudson and J. Eliot B. Moss. Incremental collection of mature objects. In Bekkers and Cohen [IWMM92], 1992, pages 388-403&lt;/li&gt;
-  &lt;li&gt;[seli95] Jacob Seligmann and Steffen Grarup. Incremental mature garbage collection using the train algorithm. In Nierstrasz [ECOOP95], 1995, pages 235-252.&lt;/li&gt;
-  &lt;li&gt;[gart05a] Alex Garthwaite. Making the Trains Run On Time. PhD thesis, University of Pennsylvania, 2005.&lt;/li&gt;
-&lt;/ul&gt;
 </content>
   </entry>
 </feed>
