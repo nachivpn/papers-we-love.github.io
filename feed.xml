@@ -14,13 +14,19 @@
     <link rel="alternate" href="http://papers-we-love.github.io/2015/news/may-meetups/"/>
     <id>http://papers-we-love.github.io/2015/news/may-meetups/</id>
     <published>2015-04-30T20:00:00-04:00</published>
-    <updated>2015-05-19T13:00:25-04:00</updated>
+    <updated>2015-05-19T19:00:35-04:00</updated>
     <author>
       <name>Joshua</name>
     </author>
     <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for May across a number of our chapters:&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Toronto 5/6&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/221921448/"&gt;Paul Osman on CRDTs  Commutative Replicated Data Types&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amsterdam 5/12&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-amsterdam/events/222188556/"&gt;Spanner: Google's GloballyDistributed Database&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chicago 5/12&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Chicago/events/222024292/"&gt;An Empirical Study of the Naive Bayes Classifier&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Addison 5/13&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Dallas/events/222394809/"&gt;Scrum Metrics for Hyperproductive Teams: How They Fly like Fighter Aircraft&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Seattle 5/14&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/222065399/"&gt;: The LCA Problem Revisited&lt;/a&gt;&lt;/p&gt;
 
@@ -30,11 +36,15 @@
 
 &lt;p&gt;&lt;strong&gt;Berlin 5/21&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Berlin/events/221994661/"&gt;Programming concepts pioneered by McCarthy's  paper on Lisp&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Winnipeg 5/21&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Winnipeg/events/222214950/"&gt;The Bargaining Problem&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;San Francisco 5/21&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-too/events/212348392/"&gt;Devon O'Dell  Nonblocking Algorithms &amp;amp; Scalable Multicore Programming&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Montreal 5/25&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Montreal/events/222043241/"&gt;JohnsonLindenstrauss Lemma&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;New York 5/26&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love/events/222366060/"&gt;Samy Al Bahra on Making Lockless Synchronization Fast&lt;/a&gt;
+&lt;p&gt;&lt;strong&gt;New York 5/26&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love/events/222366060/"&gt;Samy Al Bahra on Making Lockless Synchronization Fast&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Los Angeles 5/27&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-LA/events/222365009/"&gt;Mark Masse on Architectural Styles and the Design of Networkbased Software&lt;/a&gt;
  &lt;/p&gt;
 
 &lt;hr /&gt;
