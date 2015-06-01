@@ -5,10 +5,31 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2015-04-30T20:00:00-04:00</updated>
+  <updated>2015-05-31T20:00:00-04:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>June Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2015/news/june-meetups/"/>
+    <id>http://papers-we-love.github.io/2015/news/june-meetups/</id>
+    <published>2015-05-31T20:00:00-04:00</published>
+    <updated>2015-05-09T13:00:35-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for June across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vienna 6/1&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Vienna/events/221984745/"&gt;June&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Saint Louis 6/15&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-in-saint-louis/events/221203537/"&gt;Paper TBA&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the June meetup.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>May Meetups</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2015/news/may-meetups/"/>
@@ -244,34 +265,6 @@ Armon (@armon) has a passion for distributed systems and their application to re
 &lt;/p&gt;
 
 &lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Caitie McCaffrey on Orleans: Distributed Virtual Actors for Programmability and Scalability</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/caitie-mccaffrey-on-orleans-distributed-virtual-actors-for-programmability-and-scalability/"/>
-    <id>http://papers-we-love.github.io/2015/video/caitie-mccaffrey-on-orleans-distributed-virtual-actors-for-programmability-and-scalability/</id>
-    <published>2015-03-04T19:00:00-05:00</published>
-    <updated>2015-04-25T11:28:30-04:00</updated>
-    <author>
-      <name>Darren</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/gY8zKZUazvo" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="san-francisco---february-19-2015"&gt;San Francisco - February 19, 2015&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Caitie McCaffrey&lt;/strong&gt; stops by and talks about the &lt;a href="http://research.microsoft.com/apps/pubs/default.aspx?id=210931"&gt;&lt;em&gt;Orleans: Distributed Virtual Actors for Programmability and Scalability&lt;/em&gt;&lt;/a&gt; paper by Bernstein, Bykov, Geller, Kliot, and Thelin. &lt;a href="https://speakerdeck.com/caitiem20/papers-we-love-sf-orleans-distributed-virtual-actors-for-programmability-and-scalability"&gt;Slides&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Orleans is a runtime and programming model for building scalable distributed systems, based on the actor model. The Orleans programming model introduces the abstraction of Virtual Actors. Orleans allows applications to obtain high performance, reliability, and scalability. This technology was developed by the eXtreme Computing Group at Microsoft Research and was a core component of the Azure Services that supported that powered Halo 4, the award winning video game.&lt;/p&gt;
-
-&lt;p&gt;Caitie McCaffrey is a Backend Brat, Distributed Systems Diva, and Tech Lover. Her focus is on Web Services, Distributed Systems, and Big Data. She is passionate about creating fun, social, and collaborative entertainment experiences. Caitie has a degree in Computer Science from Cornell University, and has worked on several video games including Gears of War 2, Gears of War 3, and most recently Halo 4. She currently is working at HBO on the HBO Go services. She maintains a blog at &lt;a href="http://CaitieM.com"&gt;CaitieM.com&lt;/a&gt; and frequently discusses technology and entertainment on Twitter as &lt;a href="http://twitter.com/CaitieM20"&gt;@CaitieM20&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id="mini-talks"&gt;Mini-talks&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Veronica Ray&lt;/strong&gt; on &lt;a href="http://www.adrienneporterfelt.com/chi-ssl-experiment.pdf"&gt;Experimenting At Scale With Google Chrome’s SSL Warning&lt;/a&gt;. From Veronica: "Whether we are surfing the web or developing applications, browser security affects us all. This study from 2014 is the first to demonstrate why real users disregard browser security warnings. Its conclusions about the impact of warning design are surprising and inspire reflection about what we as developers can do to keep our users safe."&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Gareth Morgan&lt;/strong&gt; on &lt;a href="http://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S08/lectures/kajiya.pdf"&gt;The Rendering Equation&lt;/a&gt;. From Gareth: "This paper is one of the most important 3D graphics papers in the subject's history. It is the foundation of many of the rendering techniques used in modern graphics. I will give a short overview of the rendering equation and why it is so important for 3D graphics. This will be a taster of my full talk on this paper which I will be giving later in the year"&lt;/p&gt;
 </content>
   </entry>
 </feed>
