@@ -49,6 +49,45 @@
 </content>
   </entry>
   <entry>
+    <title>Ryan Nichols on An Axiomatic Basis for Computer Programming</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/ryan-nichols-axiomatic-basis-computer-programming/"/>
+    <id>http://papers-we-love.github.io/2015/video/ryan-nichols-axiomatic-basis-computer-programming/</id>
+    <published>2015-05-07T20:00:00-04:00</published>
+    <updated>2015-06-16T12:39:24-04:00</updated>
+    <author>
+      <name>Darren</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/lbMVYIdPvLA" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="los-angeles---may-8-2015"&gt;Los Angeles - May 8, 2015&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Ryan Nichols&lt;/strong&gt; on An Axiomatic Basis for Computer Programming&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/Papers-We-Love-LA/events/221989188/"&gt;http://www.meetup.com/Papers-We-Love-LA/events/221989188/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="https://github.com/papers-we-love/papers-we-love/blob/master/comp_sci_fundamentals_and_history/axiomatic-basis-computer-programming.pdf?raw=true"&gt;https://github.com/papers-we-love/papers-we-love/blob/master/comp_sci_fundamentals_and_history/axiomatic-basis-computer-programming.pdf?raw=true&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A brilliant paper written in 1969, which introduced some of the most influential components of programming which we all rely on today. We'll be discussing automatic verification of program properties, Hoare logic, and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ryan Nichols (@rynodivino) is a front-end engineer at Yahoo. He enjoys &amp;lt;cool hobby&amp;gt; and &amp;lt;funny interest&amp;gt; (and making terrible jokes)!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.yahoo.com/"&gt;&lt;img src="http://assets.fontsinuse.com/static/use-media-items/15/14246/full-2048x768/52c4c6bc/Yahoo_Logo.png" alt="Yahoo" title="This talk sponsored by Yahoo" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;Los Angeles Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.yahoo.com"&gt;Yahoo&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
     <title>May Meetups</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2015/news/may-meetups/"/>
     <id>http://papers-we-love.github.io/2015/news/may-meetups/</id>
@@ -242,47 +281,6 @@ Armon (@armon) has a passion for distributed systems and their application to re
 &lt;hr /&gt;
 
 &lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt;, &lt;a href="http://engineering.tumblr.com"&gt;tumblr&lt;/a&gt; and &lt;a href="http://dropbox.com"&gt;Dropbox&lt;/a&gt; for providing food/refreshments and facilities for the April meetup.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>John Myles White on Fundamental Concepts in Programming Languages</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/john-myles-white-on-fundamental-concepts-in-programming-languages/"/>
-    <id>http://papers-we-love.github.io/2015/video/john-myles-white-on-fundamental-concepts-in-programming-languages/</id>
-    <published>2015-03-15T20:00:00-04:00</published>
-    <updated>2015-04-25T11:28:30-04:00</updated>
-    <author>
-      <name>Darren</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/cO41uoi5cZs" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="new-york---march-16-2015"&gt;New York - March 16, 2015&lt;/h2&gt;
-
-&lt;p&gt;The New York Chapter was excited to have &lt;strong&gt;John Myles White&lt;/strong&gt; come by and speak on &lt;a href="http://www.cs.cmu.edu/~crary/819-f09/Strachey67.pdf"&gt;&lt;em&gt;Fundamental Concepts in Programming Languages&lt;/em&gt;&lt;/a&gt; by &lt;a href="http://en.wikipedia.org/wiki/Christopher_Strachey"&gt;Christopher Strachey&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Strachey's lectures on &lt;em&gt;Fundamental Concepts in Programming Languages&lt;/em&gt; provided an extremely broad survey of core issues in programming language design that provided much of the terminology we use today, including definitions of the kinds of polymorphism and the kinds of expressions we see in programming languages. Published as a paper many years later, Strachey's lectures provide an especially readable overview of programming languages concepts.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="https://github.com/papers-we-love/papers-we-love/issues/286"&gt;Discussion&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://bit.ly/1BnBb08"&gt;Slides&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.youtube.com/redirect?q=http%3A%2F%2Fwww.cs.cmu.edu%2F~crary%2F819-f09%2FStrachey67.pdf&amp;amp;redir_token=79RfXyNJ5lRi2sGlVt0Ef05GMtd8MTQyNzI0MDY0NUAxNDI3MTU0MjQ1"&gt;Paper&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www.meetup.com/papers-we-love/events/220902753/"&gt;Meetup&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;John Myles White (&lt;a href="http://twitter.com/johnmyleswhite"&gt;@johnmyleswhite&lt;/a&gt;) is a Julia hacker who loves thinking about the ways in which the design of technical programming languages influences the way in which we think about statistics and machine learning. He's written &lt;a href="http://www.oreilly.com/pub/au/4730"&gt;two books about machine learning&lt;/a&gt; for O'Reilly and works at Facebook.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
-&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank our platinum sponsor &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
 </content>
   </entry>
 </feed>
