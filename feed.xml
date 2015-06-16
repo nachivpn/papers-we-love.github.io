@@ -5,10 +5,50 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2015-05-31T20:00:00-04:00</updated>
+  <updated>2015-06-03T20:00:00-04:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>Mark Masse on Architectural Styles and the Design of Network-based Software</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/mark-masse-design-network-based-software/"/>
+    <id>http://papers-we-love.github.io/2015/video/mark-masse-design-network-based-software/</id>
+    <published>2015-06-03T20:00:00-04:00</published>
+    <updated>2015-06-16T12:48:32-04:00</updated>
+    <author>
+      <name>Darren</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/kM1_gqs8RrQ" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="los-angeles---june-4-2015"&gt;Los Angeles - June 4, 2015&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Mark Masse&lt;/strong&gt; on Architectural Styles and the Design of Network-based Software&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/Papers-We-Love-LA/events/222365009/"&gt;http://www.meetup.com/Papers-We-Love-LA/events/222365009/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;At this Papers We Love LA we had Mark Masse present "Architectural Styles and the Design of Network-based Software Architectures" by Roy Fielding. This presentation focused primarily on Chapter 5, which introduces the Representational State Transfer (REST) architectural style for distributed hypermedia systems. REST API design topics are also covered in the presentation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mark Masse spent his early career with Disney, architecting and developing the content management system (CMS) that powers ESPN.com, ABC.com and Disney.com. In 2011, Mark architected the API management system used by Walt Disney Theme Parks and Resorts and authored the "REST API Design Rulebook" for O'Reilly. In 2014, Mark joined Riot Games as an Engineering Manager supporting a team that is dedicated to leveling up other internal teams with apps, tools, and automation.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/markmasse"&gt;https://www.linkedin.com/in/markmasse&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.riotgames.com/"&gt;&lt;img src="http://electric-cloud.com/wp-content/uploads/2014/06/logo-riot1.png" alt="Riotgames" title="This talk sponsored by Riotgames" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;Los Angeles Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.riotgames.com"&gt;Riot Games&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
   <entry>
     <title>June Meetups</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2015/news/june-meetups/"/>
@@ -240,47 +280,6 @@ Armon (@armon) has a passion for distributed systems and their application to re
 &lt;p&gt;&lt;a href="http://adereth.github.io/oneoff/pwl-draft/scratch.html"&gt;Slides for Matt's talk are available.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Matt Adereth (@adereth) builds tools and infrastructure for quantitative analysis at Two Sigma.  He previously worked at Microsoft on Visio, focusing on ways to connect data to shapes.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>April Meetups</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/news/april-meetups/"/>
-    <id>http://papers-we-love.github.io/2015/news/april-meetups/</id>
-    <published>2015-03-24T20:00:00-04:00</published>
-    <updated>2015-04-25T11:28:30-04:00</updated>
-    <author>
-      <name>Joshua</name>
-    </author>
-    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for April across a number of our chapters:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Toronto 4/1&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/221232820/"&gt;Max Veytsman on The First Level of Super Mario Bros.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;New York 4/1&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love/events/221194444/"&gt;Neha Narula on The Scalable Commutativity Rule&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Addison 4/6&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Dallas/events/221461827/"&gt;Scalable Causal Consistency, and Boosting of Learning Algorithms&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;London 4/15&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-London/events/221535320/"&gt;Andy Bennett on "Scalable Atomic Visibility with RAMP Transactions"&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hamburg 4/16&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Hamburg/events/220890204/"&gt;The Essence of the Iterator pattern&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Seattle 4/16&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/221174354/"&gt;: Brandon Bloom on Programming with Algebraic Effects and Handlers&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Vienna 4/20&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Vienna/events/221356300/"&gt;Google Spanner&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Montréal 4/22&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Montreal/events/221545922/"&gt;A Deep Learning Double Bill&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;München 4/23&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Munich/events/221497485/"&gt;Neural networks and machine learning&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Santa Monica 4/29&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-LA/events/221989188/"&gt;Ryan Nichols on An Axiomatic Basis for Computer Programming&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Washington 4/30&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-DC/events/221811112/"&gt;John Feminella on "Coresets and their applications"&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;San Francisco 4/30&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-too/events/212148242/"&gt;Jordan West on Logical Time&lt;/a&gt;
- &lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt;, &lt;a href="http://engineering.tumblr.com"&gt;tumblr&lt;/a&gt; and &lt;a href="http://dropbox.com"&gt;Dropbox&lt;/a&gt; for providing food/refreshments and facilities for the April meetup.&lt;/p&gt;
 </content>
   </entry>
 </feed>
