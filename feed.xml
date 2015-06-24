@@ -5,10 +5,52 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2015-06-03T20:00:00-04:00</updated>
+  <updated>2015-06-23T20:00:00-04:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>Samy Al Bahra on Making Lockless Synchronization Fast</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/samy-al-bahra-lockless-synchronization/"/>
+    <id>http://papers-we-love.github.io/2015/video/samy-al-bahra-lockless-synchronization/</id>
+    <published>2015-06-23T20:00:00-04:00</published>
+    <updated>2015-06-24T07:56:59-04:00</updated>
+    <author>
+      <name>Darren</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/aV-RyMXXuks" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---may-26-2015"&gt;New York - May 26, 2015&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Samy Al Bahra&lt;/strong&gt; on Making Lockless Synchronization Fast&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://bit.ly/1GqLaHG"&gt;http://bit.ly/1GqLaHG&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://bit.ly/1ff8AXK"&gt;http://bit.ly/1ff8AXK&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/1SkIRLK"&gt;http://bit.ly/1SkIRLK&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Multicore systems are ubiquitous but modern concurrent programming techniques still do not see wide-spread adoption. Most concurrent software (developed in low-level languages) still relies on error-prone and unscalable memory management techniques for correctness despite the introduction of superior methods over 30 years ago. Safe memory reclamation allows for performant and robust memory management that is also suitable for advanced concurrent programming techniques such as non-blocking synchronization. If properly used, safe memory reclamation techniques allow improved performance and simplicity without the complexity of full-blown garbage collection.&lt;/p&gt;
+
+&lt;p&gt;This paper provides a terrific overview of common safe memory reclamation mechanisms and then explores their performance implications. In this talk, I will do the same but with stronger emphasis on the introductory aspects of safe memory reclamation and contrast with a refreshed performance analysis. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Samy Al Bahra (&lt;a href="https://twitter.com/0xF390"&gt;@0xf390&lt;/a&gt;) is the co-founder of &lt;a href="http://backtrace.io/"&gt;Backtrace&lt;/a&gt;, where he is helping build a modern debugging platform for today's complex applications. Prior to Backtrace, Samy was a principal engineer at AppNexus, where he played a lead role in the architecture and development of many mission-critical components of the ecosystem. His work at AppNexus was instrumental in scaling the system to 18 billion impressions with orders of magnitude in efficiency improvements. Prior to AppNexus, Samy was behind major performance improvements to the core technology at Message Systems. At the George Washington University High Performance Computing Laboratory, Samy worked on the UPC programming language, heterogeneous computing and multicore synchronization. Samy is also the founder of the &lt;a href="http://concurrencykit.org/"&gt;Concurrency Kit&lt;/a&gt; project, which several leading technology companies rely on for scalability and performance. Samy serves on the ACM Practitioners Board.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
   <entry>
     <title>Mark Masse on Architectural Styles and the Design of Network-based Software</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2015/video/mark-masse-design-network-based-software/"/>
@@ -215,71 +257,6 @@
 &lt;/p&gt;
 
 &lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Armon Dadgar on Bloom Filters and HyperLogLog</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/armon-dadgar-on-bloom-filters-and-hyperloglog/"/>
-    <id>http://papers-we-love.github.io/2015/video/armon-dadgar-on-bloom-filters-and-hyperloglog/</id>
-    <published>2015-03-25T20:00:00-04:00</published>
-    <updated>2015-04-25T11:28:30-04:00</updated>
-    <author>
-      <name>Darren</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/T3Bt9Tn6P5c" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="san-francisco---march-26-2015"&gt;San Francisco - March 26, 2015&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Armon Dadgar&lt;/strong&gt; from HashiCorp takes us on a deep dive of Bloom filters and HyperLogLog.&lt;/p&gt;
-
-&lt;p&gt;Bloom filter papers:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://www.cs.upc.edu/~diaz/p422-bloom.pdf"&gt;http://www.cs.upc.edu/~diaz/p422-bloom.pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://gsd.di.uminho.pt/members/cbm/ps/dbloom.pdf"&gt;http://gsd.di.uminho.pt/members/cbm/ps/dbloom.pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www.eecs.harvard.edu/%7Ekirsch/pubs/bbbf/esa06.pdf"&gt;http://www.eecs.harvard.edu/%7Ekirsch/pubs/bbbf/esa06.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Armon will mostly touch on the first  paper which is the introduction of the technique. The other two are optimizations that he'll discuss briefly but there's no need to dwell on them.&lt;/p&gt;
-
-&lt;p&gt;HyperLogLog papers:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.142.9475"&gt;http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.142.9475&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://research.google.com/pubs/pub40671.html"&gt;http://research.google.com/pubs/pub40671.html&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Again, the first one introduces them, and the second one is some optimizations from Google. He won’t spend much time on the second one either. All of these papers are implemented as part of:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="https://github.com/armon/bloomd"&gt;https://github.com/armon/bloomd&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://github.com/armon/hlld"&gt;https://github.com/armon/hlld&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These links may give some context to the work and show the real-world applicability.&lt;/p&gt;
-
-&lt;p&gt;From Armon on why he loves these papers: "Bloom Filters and HyperLogLog are incredible for their simplicity and the seemingly impossible behavior they have. Both of them are part of the family of “sketching” data structures, which allow for a controllable error that results in a tremendous savings of memory compared to the equivalent exact implementations.&lt;/p&gt;
-
-&lt;p&gt;More than just being elegant, these two data structures enable some very cool real-world use cases. In the online advertising company I previously worked for, we used them to track thousands of metrics across billions of data points comfortably in memory on a single machine."&lt;/p&gt;
-
-&lt;p&gt;Armon's Bio
-Armon (@armon) has a passion for distributed systems and their application to real world problems. He is currently the CTO of HashiCorp, where he brings distributed systems into the world of DevOps tooling. He has worked on Terraform, Consul, and Serf at HashiCorp, and maintains the Statsite and Bloomd OSS projects as well.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://speakerdeck.com/paperswelove/pwlsf-number-13-equals-armon-dadgar-on-bloom-filters-and-hyperloglog"&gt;Download slides for Armon's talk.&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id="mini-talks"&gt;Mini Talks&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Matt Adereth&lt;/strong&gt; on &lt;a href="http://adereth.github.io/oneoff/Mode%20Trees.pdf"&gt;&lt;em&gt;The Mode Tree: A Tool for Visualization of Nonparametric Density Features&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;From Matt: "We often look at summaries of univariate data using basic descriptive statistics like mean and standard deviation and visualizations like histograms and box plots.  The Mode Tree is a powerful alternative visualization that reveals important details about our distributions that none of the standard approaches can show.&lt;/p&gt;
-
-&lt;p&gt;I particularly like this paper because it was really the by-product of some interesting algorithmic work in Computational Statistics.  A lot of the techniques in this area are pretty math heavy and inaccessible, so I appreciated that they dedicated a paper to making a visualization that helps explain the inner workings.  As a bonus, the visualization stands on its own as a useful tool."&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="http://adereth.github.io/oneoff/pwl-draft/scratch.html"&gt;Slides for Matt's talk are available.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Matt Adereth (@adereth) builds tools and infrastructure for quantitative analysis at Two Sigma.  He previously worked at Microsoft on Visio, focusing on ways to connect data to shapes.&lt;/p&gt;
 </content>
   </entry>
 </feed>
