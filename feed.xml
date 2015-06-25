@@ -5,10 +5,51 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2015-06-23T20:00:00-04:00</updated>
+  <updated>2015-06-24T20:00:00-04:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>Donny Nadolny on Raft</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/donny-nadolny-raft/"/>
+    <id>http://papers-we-love.github.io/2015/video/donny-nadolny-raft/</id>
+    <published>2015-06-24T20:00:00-04:00</published>
+    <updated>2015-06-24T13:00:05-04:00</updated>
+    <author>
+      <name>Darren</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/aaCD9zJFcYw" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="toronto---june-3-2015"&gt;Toronto - June 3, 2015&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Donny Nadolny&lt;/strong&gt; on Raft&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/222561882/"&gt;http://www.meetup.com/Papers-We-Love-Toronto/events/222561882/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="https://ramcloud.stanford.edu/raft.pdf"&gt;https://ramcloud.stanford.edu/raft.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This paper introduces the Raft consensus algorithm, which is an attempt to make a consensus algorithm that is easy to understand and easy to implement. &lt;/p&gt;
+
+&lt;p&gt;We'll discuss what consensus is, why it's useful, and what it's used for. You'll also learn the main components of Raft: leader election, data replication, and the rules for recovering from failure / ensuring safety.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://github.com/dnadolny"&gt;Donny Nadolny&lt;/a&gt; is a Scala developer at PagerDuty, working on continually improving the reliability of their distributed systems.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;Papers We Love would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for supporting our efforts to expand awareness of academic CompSci papers.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
   <entry>
     <title>Samy Al Bahra on Making Lockless Synchronization Fast</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2015/video/samy-al-bahra-lockless-synchronization/"/>
@@ -96,7 +137,7 @@
     <link rel="alternate" href="http://papers-we-love.github.io/2015/news/june-meetups/"/>
     <id>http://papers-we-love.github.io/2015/news/june-meetups/</id>
     <published>2015-05-31T20:00:00-04:00</published>
-    <updated>2015-06-24T19:00:35-04:00</updated>
+    <updated>2015-06-25T01:00:35-04:00</updated>
     <author>
       <name>Joshua</name>
     </author>
@@ -210,53 +251,6 @@
 &lt;hr /&gt;
 
 &lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the May meetup.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Neha Narula on The Scalable Commutativity Rule</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/neha-narula-scalable-commutativity-rule/"/>
-    <id>http://papers-we-love.github.io/2015/video/neha-narula-scalable-commutativity-rule/</id>
-    <published>2015-04-05T20:00:00-04:00</published>
-    <updated>2015-04-25T11:28:30-04:00</updated>
-    <author>
-      <name>Darren</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/JE-jSZ8zToM" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="new-york---april-1-2015"&gt;New York - April 1, 2015&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Neha Narula&lt;/strong&gt; on The Scalable Commutativity Rule&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/papers-we-love/events/221194444/"&gt;http://www.meetup.com/papers-we-love/events/221194444/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://bit.ly/1IzyXA7"&gt;http://bit.ly/1IzyXA7&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/1GBP4y3"&gt;http://bit.ly/1GBP4y3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/1D5Rdkw"&gt;http://bit.ly/1D5Rdkw&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Moore's law is over, or at least, we won't be making programs go faster by running on faster processors, but instead by parallelizing our code to use more of them.  Reasoning about concurrent code is difficult; but it's also very hard to understand whether your design has latent scalability bottlenecks until you can actually run it on many cores.  And what if the problem is in your interface, instead of just the implementation?&lt;/p&gt;
-
-&lt;p&gt;This paper presents a simple, elegant rule:  whenever interface operations commute, they can be implemented in a way that scales.&lt;/p&gt;
-
-&lt;p&gt;The authors apply this idea to Linux, and create a new operating system by using the rule, sv6.  Their paper also comes with software, COMMUTER, which can help developers evaluate their interfaces to find opportunities for scaling.&lt;/p&gt;
-
-&lt;p&gt;This is a very powerful idea, and probably has applications in other areas like distributed systems. In this talk I'll present the paper, and speculate a bit about where else this research could be useful.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Neha Narula (@neha) is a PhD candidate at MIT building fast, scalable distributed systems. In a previous life she was a Senior Software Engineer at Google, where she designed the first version of Blobstore, a system for storing and serving petabytes of immutable data, and worked on Native Client, a system for running native code securely through the browser.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
-&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank our platinum sponsor &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
 </content>
   </entry>
 </feed>
