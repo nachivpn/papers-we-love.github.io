@@ -5,10 +5,49 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2015-06-24T20:00:00-04:00</updated>
+  <updated>2015-06-26T20:00:00-04:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>Phil Freeman on Principal Type-schemes for Functional Programs</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/phil-freeman-principal-types/"/>
+    <id>http://papers-we-love.github.io/2015/video/phil-freeman-principal-types/</id>
+    <published>2015-06-26T20:00:00-04:00</published>
+    <updated>2015-06-27T10:02:40-04:00</updated>
+    <author>
+      <name>Darren</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/zyyRxbGknNk" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="los-angeles---june-24-2015"&gt;Los Angeles - June 24, 2015&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Phil Freeman&lt;/strong&gt; on Principal Type-schemes for Functional Programs&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/Papers-We-Love-LA/events/223161204/"&gt;http://www.meetup.com/Papers-We-Love-LA/events/223161204/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://web.cs.wpi.edu/~cs4536/c12/milner-damas_principal_types.pdf"&gt;http://web.cs.wpi.edu/~cs4536/c12/milner-damas_principal_types.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Damas-Hindley-Milner type system is a classical system for the first-order polymorphic lambda calculus, and the ML family of programming languages. This paper introduces Algorithm W, a simple algorithm for type reconstruction in the DHM type system. I'll walk through the main results of the paper, and compare the DHM type system with other more modern systems.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/@paf31"&gt;Phil Freeman&lt;/a&gt; is an engineer at DicomGrid.  He is the original developer of the PureScript compiler, author of  PureScript by Example, a Haskeller &amp;amp; PLT enthusiast.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.brainiumstudios.com/"&gt;&lt;img src="http://www.brainiumstudios.com/wp-content/uploads/2014/02/Logo.png" alt="Brainium" title="Brainium" style="padding: .3em; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;Papers We Love Los Angeles would like to thank &lt;a href="http://www.brainiumstudios.com"&gt;Brainium&lt;/a&gt; for hosting this month's meetup.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
   <entry>
     <title>Donny Nadolny on Raft</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2015/video/donny-nadolny-raft/"/>
@@ -208,49 +247,6 @@
 &lt;/p&gt;
 
 &lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>May Meetups</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/news/may-meetups/"/>
-    <id>http://papers-we-love.github.io/2015/news/may-meetups/</id>
-    <published>2015-04-30T20:00:00-04:00</published>
-    <updated>2015-05-21T19:00:34-04:00</updated>
-    <author>
-      <name>Joshua</name>
-    </author>
-    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for May across a number of our chapters:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Toronto 5/6&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/221921448/"&gt;Paul Osman on CRDTs  Commutative Replicated Data Types&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Amsterdam 5/12&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-amsterdam/events/222188556/"&gt;Spanner: Google's GloballyDistributed Database&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Chicago 5/12&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Chicago/events/222024292/"&gt;An Empirical Study of the Naive Bayes Classifier&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Addison 5/13&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Dallas/events/222394809/"&gt;Scrum Metrics for Hyperproductive Teams: How They Fly like Fighter Aircraft&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Seattle 5/14&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/222065399/"&gt;: The LCA Problem Revisited&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Saint Louis 5/18&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-in-saint-louis/events/220570557/"&gt;The Chemical Basis of Morphogenesis (Turing)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;London 5/20&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-London/events/222094026/"&gt;Oliver Charles on "Kleisli Arrows of Outrageous Fortune"&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Berlin 5/21&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Berlin/events/221994661/"&gt;Programming concepts pioneered by McCarthy's  paper on Lisp&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Winnipeg 5/21&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Winnipeg/events/222214950/"&gt;The Bargaining Problem&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;San Francisco 5/21&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-too/events/212348392/"&gt;Devon O'Dell  Nonblocking Algorithms &amp;amp; Scalable Multicore Programming&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Montreal 5/25&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Montreal/events/222043241/"&gt;JohnsonLindenstrauss Lemma&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;New York 5/26&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love/events/222366060/"&gt;Samy Al Bahra on Making Lockless Synchronization Fast&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Los Angeles 5/27&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-LA/events/222365009/"&gt;Mark Masse on Architectural Styles and the Design of Networkbased Software&lt;/a&gt;
- &lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the May meetup.&lt;/p&gt;
 </content>
   </entry>
 </feed>
