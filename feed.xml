@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://papers-we-love.github.io/2015/video/devon-odell-nonblocking-algorithms/"/>
     <id>http://papers-we-love.github.io/2015/video/devon-odell-nonblocking-algorithms/</id>
     <published>2015-07-02T20:00:00-04:00</published>
-    <updated>2015-07-03T08:09:21-04:00</updated>
+    <updated>2015-07-06T17:46:03-04:00</updated>
     <author>
       <name>Darren</name>
     </author>
@@ -63,7 +63,7 @@
     <link rel="alternate" href="http://papers-we-love.github.io/2015/news/july-meetups/"/>
     <id>http://papers-we-love.github.io/2015/news/july-meetups/</id>
     <published>2015-06-30T20:00:00-04:00</published>
-    <updated>2015-07-06T13:00:24-04:00</updated>
+    <updated>2015-07-06T19:00:33-04:00</updated>
     <author>
       <name>Joshua</name>
     </author>
@@ -73,11 +73,17 @@
 
 &lt;p&gt;&lt;strong&gt;Toronto 7/8&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/223538679/"&gt;Julie Haché on ZeroOverhead Metaprogramming&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Addison 7/8&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Dallas/events/223591250/"&gt;RSA Is Broken! (Not Really)&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;Seattle 7/9&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/223224228/"&gt;: Dedalus: Datalog in Time and Space&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Saint Louis 7/20&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-in-saint-louis/events/221979805/"&gt;Wavelets for Computer Graphics&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Montreal 7/22&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Montreal/events/223605623/"&gt;Efficient and General OnStack Replacement for Aggressive Program Specialization&lt;/a&gt;
+&lt;p&gt;&lt;strong&gt;Chicago 7/22&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Chicago/events/223132841/"&gt;SWIM: Scalable Group Membership Protocol&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Montreal 7/22&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Montreal/events/223605623/"&gt;Efficient and General OnStack Replacement for Aggressive Program Specialization&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Santa Monica 7/29&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-LA/events/223494462/"&gt;Bill Berry on Hints for Computer System Design&lt;/a&gt;
  &lt;/p&gt;
 
 &lt;hr /&gt;
@@ -90,7 +96,7 @@
     <link rel="alternate" href="http://papers-we-love.github.io/2015/video/phil-freeman-principal-types/"/>
     <id>http://papers-we-love.github.io/2015/video/phil-freeman-principal-types/</id>
     <published>2015-06-26T20:00:00-04:00</published>
-    <updated>2015-06-27T10:09:43-04:00</updated>
+    <updated>2015-07-06T17:46:03-04:00</updated>
     <author>
       <name>Darren</name>
     </author>
@@ -131,7 +137,7 @@
     <link rel="alternate" href="http://papers-we-love.github.io/2015/video/donny-nadolny-raft/"/>
     <id>http://papers-we-love.github.io/2015/video/donny-nadolny-raft/</id>
     <published>2015-06-24T20:00:00-04:00</published>
-    <updated>2015-06-24T13:00:05-04:00</updated>
+    <updated>2015-07-06T17:46:03-04:00</updated>
     <author>
       <name>Darren</name>
     </author>
@@ -172,7 +178,7 @@
     <link rel="alternate" href="http://papers-we-love.github.io/2015/video/samy-al-bahra-lockless-synchronization/"/>
     <id>http://papers-we-love.github.io/2015/video/samy-al-bahra-lockless-synchronization/</id>
     <published>2015-06-23T20:00:00-04:00</published>
-    <updated>2015-06-24T07:56:59-04:00</updated>
+    <updated>2015-07-06T17:46:03-04:00</updated>
     <author>
       <name>Darren</name>
     </author>
@@ -214,7 +220,7 @@
     <link rel="alternate" href="http://papers-we-love.github.io/2015/video/mark-masse-design-network-based-software/"/>
     <id>http://papers-we-love.github.io/2015/video/mark-masse-design-network-based-software/</id>
     <published>2015-06-03T20:00:00-04:00</published>
-    <updated>2015-06-16T12:48:32-04:00</updated>
+    <updated>2015-07-06T17:46:03-04:00</updated>
     <author>
       <name>Darren</name>
     </author>
