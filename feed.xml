@@ -5,10 +5,55 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2015-07-02T20:00:00-04:00</updated>
+  <updated>2015-07-22T20:00:00-04:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>Jason Ganetsky on Making a Fast Curry: Push/Enter vs. Eval/Apply for Higher-order Languages</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/jason-ganetsky-fast-curry/"/>
+    <id>http://papers-we-love.github.io/2015/video/jason-ganetsky-fast-curry/</id>
+    <published>2015-07-22T20:00:00-04:00</published>
+    <updated>2015-07-23T06:53:51-04:00</updated>
+    <author>
+      <name>Darren</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/PDkhwIXjQHw" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="san-francisco---may-21-2015"&gt;San Francisco - May 21, 2015&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Jason Ganetsky&lt;/strong&gt; on Making a Fast Curry: Push/Enter vs. Eval/Apply for Higher-order Languages&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://bit.ly/1DuZQCb"&gt;http://bit.ly/1DuZQCb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://bit.ly/1gOp7mb"&gt;http://bit.ly/1gOp7mb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/1KkZlzL"&gt;http://bit.ly/1KkZlzL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/1RQJW0O"&gt;http://bit.ly/1RQJW0O&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe src="https://docs.google.com/presentation/d/11_VNU8ov0ZQIoZZtj390gXOr4VB0BLo1Y9UcoWGgSF8/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Higher-order languages that encourage currying are typically implemented using one of two basic evaluation models: push/enter or eval/apply. Implementors use their intuition and qualitative judgements to choose one model or the other. Our goal in this paper is to provide, for the first time, a more substantial basis for this choice, based on our qualitative and quantitative experience of implementing both models in a state-of-the-art compiler for Haskell.&lt;/p&gt;
+
+&lt;p&gt;Our conclusion is simple, and contradicts our initial intuition: compiled implementations should use eval/apply.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Jason Ganetsky (&lt;a href="https://twitter.com/ganetsky"&gt;@ganetsky&lt;/a&gt;) is a software engineer at Google. He is tech lead of storage for &lt;a href="https://cloud.google.com/pubsub/docs"&gt;Google Cloud Pub/Sub&lt;/a&gt;. Prior to working at Google, Jason worked at various startups in NYC, and was briefly enrolled in a Computer Science PhD program at Carnegie Mellon. It was that brief stint that sparked the beginning of Jason's lifelong love of functional programming and type systems.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
   <entry>
     <title>Devon O'Dell on Nonblocking Algorithms &amp; Scalable Multicore Programming</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2015/video/devon-odell-nonblocking-algorithms/"/>
@@ -212,46 +257,6 @@
 
 &lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
 &lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Mark Masse on Architectural Styles and the Design of Network-based Software</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/mark-masse-design-network-based-software/"/>
-    <id>http://papers-we-love.github.io/2015/video/mark-masse-design-network-based-software/</id>
-    <published>2015-06-03T20:00:00-04:00</published>
-    <updated>2015-07-06T17:46:03-04:00</updated>
-    <author>
-      <name>Darren</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/kM1_gqs8RrQ" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="los-angeles---june-4-2015"&gt;Los Angeles - June 4, 2015&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Mark Masse&lt;/strong&gt; on Architectural Styles and the Design of Network-based Software&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/Papers-We-Love-LA/events/222365009/"&gt;http://www.meetup.com/Papers-We-Love-LA/events/222365009/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;At this Papers We Love LA we had Mark Masse present "Architectural Styles and the Design of Network-based Software Architectures" by Roy Fielding. This presentation focused primarily on Chapter 5, which introduces the Representational State Transfer (REST) architectural style for distributed hypermedia systems. REST API design topics are also covered in the presentation.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Mark Masse spent his early career with Disney, architecting and developing the content management system (CMS) that powers ESPN.com, ABC.com and Disney.com. In 2011, Mark architected the API management system used by Walt Disney Theme Parks and Resorts and authored the "REST API Design Rulebook" for O'Reilly. In 2014, Mark joined Riot Games as an Engineering Manager supporting a team that is dedicated to leveling up other internal teams with apps, tools, and automation.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://www.linkedin.com/in/markmasse"&gt;https://www.linkedin.com/in/markmasse&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
-&lt;a href="https://www.riotgames.com/"&gt;&lt;img src="http://electric-cloud.com/wp-content/uploads/2014/06/logo-riot1.png" alt="Riotgames" title="This talk sponsored by Riotgames" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;Los Angeles Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.riotgames.com"&gt;Riot Games&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
 &lt;/p&gt;
 
 &lt;hr /&gt;
