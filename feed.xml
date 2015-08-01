@@ -5,10 +5,41 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2015-07-22T20:00:00-04:00</updated>
+  <updated>2015-07-31T20:00:00-04:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>August Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2015/news/august-meetups/"/>
+    <id>http://papers-we-love.github.io/2015/news/august-meetups/</id>
+    <published>2015-07-31T20:00:00-04:00</published>
+    <updated>2015-08-01T01:00:36-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for August across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Toronto 8/5&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/224152792/"&gt;Ben Darwin on Programming with Algebraic Effects and Handlers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Addison 8/12&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Dallas/events/224124422/"&gt;The Rendering Equation in Plain English - make that Math&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 8/13&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/224064458/"&gt;Mesos  A Platform for Fine-Grained Resource Sharing in the Data Center&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bangalore 8/15&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-we-love-Bangalore/events/224257810/"&gt;Wait Free Synchronization  Maurice Herlihy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New York 8/17&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love/events/224260466/"&gt;Michael Bernstein on TBD&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Saint Louis 8/17&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-in-saint-louis/events/221988737/"&gt;Continuum Robot Arms Inspired by Cephalopods (Walker, et al)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Francisco 8/20&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-too/events/220795976/"&gt;Bob Poekert on COOLCAT&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the August meetup.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Jason Ganetsky on Making a Fast Curry: Push/Enter vs. Eval/Apply for Higher-order Languages</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2015/video/jason-ganetsky-fast-curry/"/>
@@ -215,48 +246,6 @@
 
 &lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
 &lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;Papers We Love would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for supporting our efforts to expand awareness of academic CompSci papers.&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Samy Al Bahra on Making Lockless Synchronization Fast</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/samy-al-bahra-lockless-synchronization/"/>
-    <id>http://papers-we-love.github.io/2015/video/samy-al-bahra-lockless-synchronization/</id>
-    <published>2015-06-23T20:00:00-04:00</published>
-    <updated>2015-07-06T17:46:03-04:00</updated>
-    <author>
-      <name>Darren</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/aV-RyMXXuks" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="new-york---may-26-2015"&gt;New York - May 26, 2015&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Samy Al Bahra&lt;/strong&gt; on Making Lockless Synchronization Fast&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://bit.ly/1GqLaHG"&gt;http://bit.ly/1GqLaHG&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://bit.ly/1ff8AXK"&gt;http://bit.ly/1ff8AXK&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/1SkIRLK"&gt;http://bit.ly/1SkIRLK&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Multicore systems are ubiquitous but modern concurrent programming techniques still do not see wide-spread adoption. Most concurrent software (developed in low-level languages) still relies on error-prone and unscalable memory management techniques for correctness despite the introduction of superior methods over 30 years ago. Safe memory reclamation allows for performant and robust memory management that is also suitable for advanced concurrent programming techniques such as non-blocking synchronization. If properly used, safe memory reclamation techniques allow improved performance and simplicity without the complexity of full-blown garbage collection.&lt;/p&gt;
-
-&lt;p&gt;This paper provides a terrific overview of common safe memory reclamation mechanisms and then explores their performance implications. In this talk, I will do the same but with stronger emphasis on the introductory aspects of safe memory reclamation and contrast with a refreshed performance analysis. &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Samy Al Bahra (&lt;a href="https://twitter.com/0xF390"&gt;@0xf390&lt;/a&gt;) is the co-founder of &lt;a href="http://backtrace.io/"&gt;Backtrace&lt;/a&gt;, where he is helping build a modern debugging platform for today's complex applications. Prior to Backtrace, Samy was a principal engineer at AppNexus, where he played a lead role in the architecture and development of many mission-critical components of the ecosystem. His work at AppNexus was instrumental in scaling the system to 18 billion impressions with orders of magnitude in efficiency improvements. Prior to AppNexus, Samy was behind major performance improvements to the core technology at Message Systems. At the George Washington University High Performance Computing Laboratory, Samy worked on the UPC programming language, heterogeneous computing and multicore synchronization. Samy is also the founder of the &lt;a href="http://concurrencykit.org/"&gt;Concurrency Kit&lt;/a&gt; project, which several leading technology companies rely on for scalability and performance. Samy serves on the ACM Practitioners Board.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
-&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
 &lt;/p&gt;
 
 &lt;hr /&gt;
