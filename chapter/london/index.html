@@ -61,6 +61,21 @@
   </section>
     <h2 class="chapter-meetups-header">Chapter Meetups</h2>
       <section class="chapter-meetup">
+        <h1><a href="http://www.meetup.com/Papers-We-Love-London/events/225291417/">The Genuine Sieve of Eratosthenes</a></h1>
+        <div class="event-meta">
+          <span class="event-date">
+            <a class="event-map" href="https://www.google.com/maps/search/10+South+Place+London">Map</a>
+            <strong>Date/Time:</strong>
+            2015-09-16 06:30pm
+            <strong>Location:</strong>
+            Skills Matter at CodeNode - 10 South Place, London
+          </span>
+        </div>
+        <div class="event-description">
+          <p>The paper, by Melissa O���Neill,��is available <a href="https://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf">here</a>.</p> <p>I like it because I first read it not knowing Haskell very well and I read through the paper a few times and had a wonderful <i>a-ha</i> moment with a sentence or two that made the idea click and ��was able to implement it in Python. I have since re-done it in Clojure so you will see it done 3 ways (and hopeful I will share an <i>a-ha</i> moment with you)</p> <p>"""A much beloved and widely used example showing the elegance and simplicity of lazy functional programming represents itself as "The Sieve of Eratosthenes." The paper shows that this example is not the sieve and presents an implementation that actually is."""</p> <p>Starting with the classic one-liner��sieve��</p> <p>sieve (p : xs) = p : sieve [x | x &lt;��� xs, x ���mod��� p &gt; 0]</p> <p>primes = sieve [2..]��</p> <p>O'Neill proceeds to show why this standard rendition of the Sieve of Eratosthene…</p> <p><a class="event-read-more" href="http://www.meetup.com/Papers-We-Love-London/events/225291417/">Read more about this Meetup</a></p>
+        </div>
+      </section>
+      <section class="chapter-meetup">
         <h1><a href="http://www.meetup.com/Papers-We-Love-London/events/223602194/">Martin Kleppmann on “Sequential Consistency versus Linearizability”</a></h1>
         <div class="event-meta">
           <span class="event-date">
