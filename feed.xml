@@ -5,16 +5,60 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2015-09-30T20:00:00-04:00</updated>
+  <updated>2015-10-04T20:00:00-04:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>Tomas Petricek on The Against Method</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/tomas-petricek-against-the-method/"/>
+    <id>http://papers-we-love.github.io/2015/video/tomas-petricek-against-the-method/</id>
+    <published>2015-10-04T20:00:00-04:00</published>
+    <updated>2015-10-13T09:01:00-04:00</updated>
+    <author>
+      <name>Darren</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/jzD1O_gastA" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---october-5-2015"&gt;New York - October 5, 2015&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Tomas Petricek&lt;/strong&gt; on The Against Method&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://bit.ly/1VOG3eT"&gt;http://bit.ly/1VOG3eT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://bit.ly/1Lhaxfo"&gt;http://bit.ly/1Lhaxfo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/1G1QPHK"&gt;http://bit.ly/1G1QPHK&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;How is computer science research done? What we take for granted and what we question? And how do theories in computer science tell us something about the real world? Those are some of the questions that may inspire computer scientist like me (and you!) to look into philosophy of science. I’ll present the work of one of the more extreme (and interesting!) philosophers of science, Paul Feyerabend. In “Against Method”, Feyerabend looks at the history of science and finds that there is no fixed scientific methodology and the only methodology that can encompass the rich history is ‘anything goes’. We see (not only computer) science as a perfect methodology for building correct knowledge, but is this really the case? To quote Feyerabend:&lt;/p&gt;
+
+&lt;p&gt;"Science is much more 'sloppy' and 'irrational' than its methodological image."&lt;/p&gt;
+
+&lt;p&gt;I’ll be mostly talking about Paul Feyerabend’s “Against Method”, but as a computer scientist myself, I’ll insert a number of examples based on my experience with theoretical programming language research. I hope to convince you that looking at philosophy of science is very much worthwhile if we want to better understand what we do and how we do it as computer scientists!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Tomas Petricek (&lt;a href="https://twitter.com/tomaspetricek"&gt;@tomaspetricek&lt;/a&gt;) recently submitted his PhD thesis at University of Cambridge on context-aware programming languages. He is active in the functional programming community, contributes to various F# open-source libraries, writes and talks about F# and offers trainings and consulting at fsharpWorks. When he isn’t writing equations or code, he enjoys reading philosophy of science books and occasionally publishes an essay combining philosophy and computer science.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
   <entry>
     <title>October Meetups</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2015/news/october-meetups/"/>
     <id>http://papers-we-love.github.io/2015/news/october-meetups/</id>
     <published>2015-09-30T20:00:00-04:00</published>
-    <updated>2015-10-13T07:00:25-04:00</updated>
+    <updated>2015-10-13T09:01:52-04:00</updated>
     <author>
       <name>Joshua</name>
     </author>
@@ -52,6 +96,46 @@
 &lt;hr /&gt;
 
 &lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the October meetup.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Ryan Zezeski on Memory by the Slab: The Tale of Bonwick's Slab Allocator</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/ryan-zezeski-memory-by-the-slab/"/>
+    <id>http://papers-we-love.github.io/2015/video/ryan-zezeski-memory-by-the-slab/</id>
+    <published>2015-09-14T20:00:00-04:00</published>
+    <updated>2015-10-13T09:01:00-04:00</updated>
+    <author>
+      <name>Darren</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/UQVd9mZr-jI" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---september-9-2015"&gt;New York - September 9, 2015&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Ryan Zezeski&lt;/strong&gt; on Memory by the Slab: The Tale of Bonwick's Slab Allocator&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://bit.ly/1PaYkPc"&gt;http://bit.ly/1PaYkPc&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://bit.ly/1VOACYe"&gt;http://bit.ly/1VOACYe&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/1WXP0jj"&gt;http://bit.ly/1WXP0jj&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In 1994 Jeff Bonwick presented his Slab Allocator at the USENIX SummerTechnical Conference. Over two decades later Google reports 35-thousand results for "slab allocator". CiteSeerX reports 93 citations. And many modern kernel allocators are based on his design, such as illumos, Linux, and FreeBSD. Jeff's design, along with the original paper, remains just as relevant today as it was 21 years ago. Join me as I tell the tale of the Slab Allocator: where it came from, what it is, why it's important, and where it's going.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ryan Zezeski (@rzezeski) is an aspiring kernel hacker working at Lucera Financial Infrastructures. A primary contributor to the Riak distributed database. Author of the try-try-try Riak Core tutorials. And creator of project Yokozuna: a program which combined the powers of Riak and Solr. He once wrote a blog post on POSIX Real Time Signals that made a bunch of people mad and caused a bug to be filed against Oracle Solaris. Ryan loves reading about arcane operating system stuff and occasionally writes about it at zinascii.com. His spirit animal is W. Richard Stevens.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
 </content>
   </entry>
   <entry>
@@ -191,80 +275,6 @@
 &lt;/p&gt;
 
 &lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Bill Berry on Hints for Computer System Design</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/bill-berry-hints/"/>
-    <id>http://papers-we-love.github.io/2015/video/bill-berry-hints/</id>
-    <published>2015-08-19T20:00:00-04:00</published>
-    <updated>2015-08-20T07:08:34-04:00</updated>
-    <author>
-      <name>Darren</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/2Z-NVsZLd5Q" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="los-angeles---august-19-2015"&gt;Los Angeles - August 19, 2015&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Bill Berry&lt;/strong&gt; on Hints for Computer System Design&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/Papers-We-Love-LA/events/223494462/"&gt;http://www.meetup.com/Papers-We-Love-LA/events/223494462/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://research.microsoft.com/en-us/um/people/blampson/33-Hints/Acrobat.pdf"&gt;http://research.microsoft.com/en-us/um/people/blampson/33-Hints/Acrobat.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;While technologies, methodologies and abstractions have waxed and waned over the years, Butler Lampson's 'Hints for Computer Systems Design' remains relevant to the current challenges faced in software and hardware systems engineering.  Drawing against the backdrop of current development practices, we will discuss how Lampson's hints can still be used, some thirty years later, to implement functionally accurate, high-performing fault-tolerant software systems.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In a previous life Bill (&lt;a href="https://twitter.com/williamberryiii"&gt;@williamberryiii&lt;/a&gt;) crafted scenery for Broadway, a la Pirates of Penzance, but now crafts software for the enterprise, a la Pirates of Silicon Valley.  In his roles as Technical Lead and Application Architect for The Retail Equation, Bill has lead service integrations with Fortune 500 retailers, curated DevOps initiatives and always enjoys building high performance, multi-tenant distributed data APIs.  As a deeply curious engineer, he enjoys pairing complex problems with simple and elegant solutions. Striving for meaningful change, Bill believes that cultural and technical progress is best made through evolution and not revolution.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
-&lt;a href="https://www.brainiumstudios.com/"&gt;&lt;img src="http://www.brainiumstudios.com/wp-content/uploads/2014/02/Logo.png" alt="Brainium" title="Brainium" style="padding: .3em; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;Papers We Love Los Angeles would like to thank &lt;a href="http://www.brainiumstudios.com"&gt;Brainium&lt;/a&gt; for hosting this month's meetup.&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>August Meetups</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/news/august-meetups/"/>
-    <id>http://papers-we-love.github.io/2015/news/august-meetups/</id>
-    <published>2015-07-31T20:00:00-04:00</published>
-    <updated>2015-08-31T19:00:36-04:00</updated>
-    <author>
-      <name>Joshua</name>
-    </author>
-    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for August across a number of our chapters:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Toronto 8/5&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/224152792/"&gt;Ben Darwin on Programming with Algebraic Effects and Handlers&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Amsterdam 8/13&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-amsterdam/events/224303434/"&gt;Resilient Distributed Datasets&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Seattle 8/13&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/224064458/"&gt;Mesos  A Platform for Fine-Grained Resource Sharing in the Data Center&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bangalore 8/15&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-we-love-Bangalore/events/224257810/"&gt;Wait Free Synchronization  Maurice Herlihy&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;New York 8/17&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love/events/224260466/"&gt;Michael Bernstein on Propositions as Types&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Saint Louis 8/17&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-in-saint-louis/events/221988737/"&gt;Continuum Robot Arms Inspired by Cephalopods (Walker, et al)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;San Francisco 8/20&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-too/events/220795976/"&gt;Bob Poekert on COOLCAT&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Montreal 8/26&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Montreal/events/224474113/"&gt;Towards Robot Scientists for autonomous scientific discovery&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Marina del Rey 8/26&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-LA/events/224423506/"&gt;Eric Scrivner on Bitcoin: A Peerto-Peer Electronic Cash System&lt;/a&gt;
- &lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the August meetup.&lt;/p&gt;
 </content>
   </entry>
 </feed>
