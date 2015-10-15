@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://papers-we-love.github.io/2015/video/tomas-petricek-against-the-method/"/>
     <id>http://papers-we-love.github.io/2015/video/tomas-petricek-against-the-method/</id>
     <published>2015-10-04T20:00:00-04:00</published>
-    <updated>2015-10-13T09:01:00-04:00</updated>
+    <updated>2015-10-14T19:59:50-04:00</updated>
     <author>
       <name>Darren</name>
     </author>
@@ -30,6 +30,7 @@
   &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://bit.ly/1VOG3eT"&gt;http://bit.ly/1VOG3eT&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://bit.ly/1Lhaxfo"&gt;http://bit.ly/1Lhaxfo&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/1G1QPHK"&gt;http://bit.ly/1G1QPHK&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/1jzWz0J"&gt;http://bit.ly/1jzWz0J&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
@@ -54,11 +55,52 @@
 </content>
   </entry>
   <entry>
+    <title>Jim Benvenuto on Metaobject Protocols Why We Want Them And What Else They Can Do</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/jim-benvenuto-metaobject-protocols/"/>
+    <id>http://papers-we-love.github.io/2015/video/jim-benvenuto-metaobject-protocols/</id>
+    <published>2015-10-01T20:00:00-04:00</published>
+    <updated>2015-10-14T19:59:50-04:00</updated>
+    <author>
+      <name>Darren</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/SurLTjq53Og" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="los-angeles---october-2-2015"&gt;Los Angeles - October 2, 2015&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Jim Benvenuto&lt;/strong&gt; on Metaobject Protocols Why We Want Them And What Else They Can Do&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/Papers-We-Love-LA/events/225395217/"&gt;http://www.meetup.com/Papers-We-Love-LA/events/225395217/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://cseweb.ucsd.edu/~vahdat/papers/mop.pdf"&gt;http://cseweb.ucsd.edu/~vahdat/papers/mop.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This month Jim presented "Metaobject Protocols: Why We Want Them And What Else They Can Do" by Kiczales, Ashley, Rodriguez, Vahdat &amp;amp; Bobrow.&lt;/p&gt;
+
+&lt;p&gt;Abstraction is one of the pillars of computer science. Software has traditionally been constructed according to the principle that a module should expose its functionality but hide its implementation. This principle, informally known as black-box abstraction, is a basic tenet of software design, underlying our approaches to portability, reuse,and many other important issues in computing. However, in some cases black-box abstraction causes the very problems it is supposed to eliminate.&lt;/p&gt;
+
+&lt;p&gt;As a programming languages becomes higher and higher level, its implementation in terms of the underlying machines involves more and more trade-offs on the part of the implementer, about what cases to optimize at the expense of other cases. This leaves a programmer victim to inefficiencies driving them to break language abstractions and "code between the lines" making code more complex and less portable.&lt;/p&gt;
+
+&lt;p&gt;Meta-object protocols are a principled way of getting the most out of abstraction. It is a way to allow the end-programmer to go back and remake design tradeoffs to better suite their needs. In addition Meta-object protocols are an extremely fascinating and elegant formalism.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.brainiumstudios.com/"&gt;&lt;img src="http://www.brainiumstudios.com/wp-content/uploads/2014/02/Logo.png" alt="Brainium" title="Brainium" style="padding: .3em; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;Papers We Love Los Angeles would like to thank &lt;a href="http://www.brainiumstudios.com"&gt;Brainium&lt;/a&gt; for hosting this month's meetup.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
     <title>October Meetups</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2015/news/october-meetups/"/>
     <id>http://papers-we-love.github.io/2015/news/october-meetups/</id>
     <published>2015-09-30T20:00:00-04:00</published>
-    <updated>2015-10-14T19:00:25-04:00</updated>
+    <updated>2015-10-14T20:00:10-04:00</updated>
     <author>
       <name>Joshua</name>
     </author>
@@ -103,7 +145,7 @@
     <link rel="alternate" href="http://papers-we-love.github.io/2015/video/ryan-zezeski-memory-by-the-slab/"/>
     <id>http://papers-we-love.github.io/2015/video/ryan-zezeski-memory-by-the-slab/</id>
     <published>2015-09-14T20:00:00-04:00</published>
-    <updated>2015-10-13T09:01:00-04:00</updated>
+    <updated>2015-10-14T19:59:50-04:00</updated>
     <author>
       <name>Darren</name>
     </author>
@@ -119,6 +161,7 @@
   &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://bit.ly/1PaYkPc"&gt;http://bit.ly/1PaYkPc&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://bit.ly/1VOACYe"&gt;http://bit.ly/1VOACYe&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/1WXP0jj"&gt;http://bit.ly/1WXP0jj&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/1jzYwKy"&gt;http://bit.ly/1jzYwKy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
@@ -224,57 +267,6 @@
 &lt;hr /&gt;
 
 &lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the September meetup.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Michael Bernstein on Propositions as Types</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/michael-bernstein-propositions-as-types/"/>
-    <id>http://papers-we-love.github.io/2015/video/michael-bernstein-propositions-as-types/</id>
-    <published>2015-08-31T20:00:00-04:00</published>
-    <updated>2015-09-02T13:00:04-04:00</updated>
-    <author>
-      <name>Darren</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/K-YYoigWN24" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="new-york---august-17-2015"&gt;New York - August 17, 2015&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Michael Bernstein&lt;/strong&gt; on Propositions as Types&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://bit.ly/1MXU3fT"&gt;http://bit.ly/1MXU3fT&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://bit.ly/QkZ5K1"&gt;http://bit.ly/QkZ5K1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/1FcrMM3"&gt;http://bit.ly/1FcrMM3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/1KXo22T"&gt;http://bit.ly/1KXo22T&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Michael was the very first speaker for Papers We Love, back  in February of 2014 in New York City &lt;a href="https://www.youtube.com/watch?v=XtUtfARSIv8"&gt;[Video]&lt;/a&gt;. His energy and obvious love for learning provided us with a template for the PWL organization as whole. – Thanks, Papers We Love.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Michael Bernstein talks about Philip Wadler’s paper &lt;strong&gt;Propositions as Types&lt;/strong&gt;, which starts out with the following sentence: &lt;em&gt;"Powerful insights arise from linking two fields of study previously thought separate."&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;And just keeps on going from there. In less than 9 full pages, Wadler assembles an exuberant, hilarious take on the deep, meaningful connections between mathematics, philosophy, and computer science.&lt;/p&gt;
-
-&lt;p&gt;He’ll also be showing off some work from Daniel P. Friedman and Carl Eastlund’s recent book &lt;a href="http://www.amazon.com/The-Little-Prover-Daniel-Friedman/dp/0262527952"&gt;The Little Prover&lt;/a&gt;, which implements a small theorem prover in Scheme, to demonstrate some of the connections Wadler discusses in his paper.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Michael R. Bernstein &lt;a href="https://twiiter.com/mrb_bk"&gt;@mrb_bk&lt;/a&gt; loves you. He lives in Takoma Park, MD and spends most of his time thinking about pottery, obscure LPs, food, and the intersection of philosophy and Computer Science.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
-
-&lt;script async="" class="speakerdeck-embed" data-id="a51fe73ed53b42a19e9b1191401cb189" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"&gt;&lt;/script&gt;
-
-&lt;hr /&gt;
-
-&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
-&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
 </content>
   </entry>
 </feed>
