@@ -100,7 +100,7 @@
     <link rel="alternate" href="http://papers-we-love.github.io/2015/news/october-meetups/"/>
     <id>http://papers-we-love.github.io/2015/news/october-meetups/</id>
     <published>2015-09-30T20:00:00-04:00</published>
-    <updated>2015-10-16T07:00:25-04:00</updated>
+    <updated>2015-10-16T08:02:23-04:00</updated>
     <author>
       <name>Joshua</name>
     </author>
@@ -182,6 +182,45 @@
 </content>
   </entry>
   <entry>
+    <title>Peter Sobot on An Industrial-Strength Audio Search Algorithm</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/peter-sobot-audio-search-algorithm/"/>
+    <id>http://papers-we-love.github.io/2015/video/peter-sobot-audio-search-algorithm/</id>
+    <published>2015-09-01T20:00:00-04:00</published>
+    <updated>2015-10-16T08:02:04-04:00</updated>
+    <author>
+      <name>Darren</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/WhXgpkQ8E-Q" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="toronto---august-5-2015"&gt;Toronto - August 5, 2015&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Peter Sobot&lt;/strong&gt; on An Industrial-Strength Audio Search Algorithm&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/224721193/"&gt;http://www.meetup.com/Papers-We-Love-Toronto/events/224721193/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf"&gt;https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This paper introduces the Shazam algorithm, the core algorithm behind the popular Shazam music and audio identification service. We'll discuss what problems the algorithm solves and how it works quickly and effectively. This talk is fairly high-level, and is aimed at anybody interested in learning how Shazam works, but will be of special interest to those interested in large-scale information retrieval, audio processing or perceptual hashing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://petersobot.com/"&gt;Peter Sobot&lt;/a&gt; is a software engineer at PagerDuty, where he helps add new functionality to their high-availability alerting platform.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.shopify.com/"&gt;&lt;img src="http://webseekinfotech.com/wp-content/uploads/2012/03/shopify-logo.png" alt="Shopify" title="Shopify" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;Toronto Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.shopify.com"&gt;Shopify&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
     <title>Eric Scrivner on Bitcoin: A Peer-to-Peer Electronic Cash System</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2015/video/eric-scrivner-bitcoin/"/>
     <id>http://papers-we-love.github.io/2015/video/eric-scrivner-bitcoin/</id>
@@ -228,45 +267,6 @@
 &lt;/p&gt;
 
 &lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>September Meetups</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/news/september-meetups/"/>
-    <id>http://papers-we-love.github.io/2015/news/september-meetups/</id>
-    <published>2015-08-31T20:00:00-04:00</published>
-    <updated>2015-09-30T19:00:34-04:00</updated>
-    <author>
-      <name>Joshua</name>
-    </author>
-    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for September across a number of our chapters:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Toronto 9/2&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/224721193/"&gt;Peter Sobot on An IndustrialStrength Audio Search Algorithm&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;San Francisco 9/9&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-too/events/220795855/"&gt;Jason Brown on Epidemic Algorithms for Replicated Database Maintenance&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Seattle 9/10&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/224687764/"&gt;Ideal Hash Trees&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Addison 9/14&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Dallas/events/224878591/"&gt;The Rendering Equation in Plain English - make that Math&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;New York 9/15&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love/events/224637574/"&gt;Ryan Zezeski's Memory by the Slab: The Tale of Bonwick's Slab Allocator&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;London 9/16&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-London/events/225291417/"&gt;Tom Hall on 'The Genuine Sieve of Eratosthenes'&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Vienna 9/21&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Vienna/events/224833443/"&gt;The Ubiquitous BTree&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Saint Louis 9/21&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-in-saint-louis/events/222627742/"&gt;Elliptic Curve Cryptosystems&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Montreal 9/23&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Montreal/events/225183206/"&gt;Shannon's "A Mathematical Theory of Communication"&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Winnipeg 9/30&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Winnipeg/events/225277008/"&gt;Recursive Functions of Symbolic Expressions and Their Computation by Machine&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Santa Monica 9/30&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-LA/events/225395217/"&gt;Jim Benvenuto on Metaobject Protocols Why We Want Them And What Else They Can Do&lt;/a&gt;
- &lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the September meetup.&lt;/p&gt;
 </content>
   </entry>
 </feed>
