@@ -5,10 +5,47 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2015-10-04T20:00:00-04:00</updated>
+  <updated>2015-10-31T20:00:00-04:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>November Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2015/news/november-meetups/"/>
+    <id>http://papers-we-love.github.io/2015/news/november-meetups/</id>
+    <published>2015-10-31T20:00:00-04:00</published>
+    <updated>2015-11-01T01:00:44-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for November across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Toronto 11/4&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/226167802/"&gt;Raveesh Nagpal on An Error Model for Pointing Based on Fitts’ Law&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vienna 11/5&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Vienna/events/225544086/"&gt;Out of the Tar Pit (part )&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bangalore 11/7&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-we-love-Bangalore/events/225439494/"&gt;A Geocoding Algorithm Based On A Comparative Study with Shravanthi&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 11/12&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/225811209/"&gt;: Survivable Key Compromise in Software Update Systems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Saint Louis 11/16&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-in-saint-louis/events/226155831/"&gt;TBA&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;London 11/18&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-London/events/226303374/"&gt;Camilla MontonenSupport Vector Machines and Kernels for Computational Biology.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New York 11/19&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love/events/226193314/"&gt;Tom Santero on Leslie Lamport's Buridan’s Principle&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Francisco 11/19&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-too/events/224178862/"&gt;Gareth Morgan on The Rendering Equation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Munich 11/24&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Munich/events/224164184/"&gt;Probabilistic Programming&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Winnipeg 11/25&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Winnipeg/events/226080050/"&gt;Do Artifacts Have Politics?&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the November meetup.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Tomas Petricek on The Against Method</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2015/video/tomas-petricek-against-the-method/"/>
@@ -213,55 +250,6 @@
 
 &lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
 &lt;a href="https://www.shopify.com/"&gt;&lt;img src="http://webseekinfotech.com/wp-content/uploads/2012/03/shopify-logo.png" alt="Shopify" title="Shopify" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;Toronto Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.shopify.com"&gt;Shopify&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Eric Scrivner on Bitcoin: A Peer-to-Peer Electronic Cash System</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/eric-scrivner-bitcoin/"/>
-    <id>http://papers-we-love.github.io/2015/video/eric-scrivner-bitcoin/</id>
-    <published>2015-09-01T20:00:00-04:00</published>
-    <updated>2015-09-01T06:38:35-04:00</updated>
-    <author>
-      <name>Darren</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/9-wGDZD_THk" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="los-angeles---august-26-2015"&gt;Los Angeles - August 26, 2015&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Eric Scrivner&lt;/strong&gt; on Bitcoin: A Peer-to-Peer Electronic Cash System&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/Papers-We-Love-LA/events/224423506/"&gt;http://www.meetup.com/Papers-We-Love-LA/events/224423506/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="https://bitcoin.org/bitcoin.pdf"&gt;https://bitcoin.org/bitcoin.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Bitcoin is many things - a critique, a currency, a protocol, and perhaps even acontemporary industrial revolution. More immediately, however, bitcoin and theoriginal paper that spawned it are of interest to the working programmer as astudy in the design of fault-tolerant, decentralized systems. Beginning fromthe crtique of trusted third parties we will see how bitcoin provides novelstarting points for system architecture in the age of increasingly cheap andubiquitous computing power, as well as speculate about what all this mightentail for the future.&lt;/p&gt;
-
-&lt;p&gt;Additional Reading / Context For The Paper:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Shelling Out – The Origin of Money (Nick Szabo) &lt;a href="http://szabo.best.vwh.net/shell.html"&gt;http://szabo.best.vwh.net/shell.html&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Trusted Third Parties Are Security Holes (Nick Szabo) &lt;a href="http://szabo.best.vwh.net/ttps.html"&gt;http://szabo.best.vwh.net/ttps.html&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Bitcoin isn't money, it's the internet of money (Eli Dourado) &lt;a href="https://theumlaut.com/2014/01/08/bitcoin-internet-of-money/"&gt;https://theumlaut.com/2014/01/08/bitcoin-internet-of-money/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;The Byzantine General's Problem (Lamport, Shostak, and Pease) &lt;a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf"&gt;http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;bmoney &lt;a href="http://www.weidai.com/bmoney.txt"&gt;http://www.weidai.com/bmoney.txt&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Many thanks to Eric Scrivner (&lt;a href="https://twitter.com/etscrivner"&gt;@etscrivner&lt;/a&gt;) for presenting this paper to the Los Angeles chapter.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
-&lt;a href="https://www.dollarshaveclub.com/"&gt;&lt;img src="http://www.thebizri.com/communities/6/004/012/359/796//images/4612864471.png" alt="Dollar Shave Club" title="Dollar Shave Club" style="padding: 0 .3em; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;Papers We Love Los Angeles would like to thank &lt;a href="http://www.dollarshaveclub.com"&gt;Dollar Shave Club&lt;/a&gt; for hosting this month's meetup.&lt;/span&gt;
 &lt;/p&gt;
 
 &lt;hr /&gt;
