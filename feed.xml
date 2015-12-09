@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://papers-we-love.github.io/2015/news/december-meetups/"/>
     <id>http://papers-we-love.github.io/2015/news/december-meetups/</id>
     <published>2015-11-30T19:00:00-05:00</published>
-    <updated>2015-12-09T07:00:24-05:00</updated>
+    <updated>2015-12-09T13:00:31-05:00</updated>
     <author>
       <name>Joshua</name>
     </author>
@@ -28,12 +28,59 @@
 
 &lt;p&gt;&lt;strong&gt;San Francisco 12/10&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-too/events/224178870/"&gt;Nathan Taylor on OS scalability &amp;amp; Chris Meiklejohn on Chain Replication&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Bangalore 12/12&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-we-love-Bangalore/events/226454656/"&gt;Let's Shazaam with Arpit Mohan&lt;/a&gt;
+&lt;p&gt;&lt;strong&gt;Bangalore 12/12&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-we-love-Bangalore/events/226454656/"&gt;Let's Shazaam with Arpit Mohan&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bucharest 12/15&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-bucharest/events/226723178/"&gt;December Meetup&lt;/a&gt;
  &lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the December meetup.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Tom Santero on Leslie Lamport's Buridan’s Principle</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/tom-santero-buridans-principle/"/>
+    <id>http://papers-we-love.github.io/2015/video/tom-santero-buridans-principle/</id>
+    <published>2015-11-18T19:00:00-05:00</published>
+    <updated>2015-12-09T13:00:02-05:00</updated>
+    <author>
+      <name>Zeeshan</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/dVkSJ0QWzXA" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---october-5-2015"&gt;New York - October 5, 2015&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Tom Santero&lt;/strong&gt; on Leslie Lamport's Buridan’s Principle&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://bit.ly/1NTZy22"&gt;http://bit.ly/1NTZy22&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://bit.ly/21MPCvo"&gt;http://bit.ly/21MPCvo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/1OOfVfi"&gt;http://bit.ly/1OOfVfi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/1NFtzAB"&gt;http://bit.ly/1NFtzAB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In 1984 Leslie Lamport began to observe the glitch problem [&lt;a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/glitch.pdf"&gt;0&lt;/a&gt;] occurs in everyday life. Realizing this phenomenon had not been discussed by psychologists of the day, he set out to describe his observations using the classical formalization of Buridan's ass. Lamport initially failed to have this paper published in various scientific journals, being rejected on grounds of superficiality. It wasn't until 2011, when a reader suggested he resubmit to Foundations of Physics, that the paper was eventually published.&lt;/p&gt;
+
+&lt;p&gt;Those familiar with the works of Lamport know him as a logician, his life's work has pushed forward the state of the art in areas of mutual exclusion and distributed systems probably more than any other, and so reading Buridan's Principle might strike us as a bit odd, or even obscure. We're in unfamiliar territory with Lamport. Nonetheless, in this paper, Lamport's casual observations lead him to bridge the gap between the humanities and the sciences, providing us readers with what appears to be a universal law of nature: Buridan's Principle.&lt;/p&gt;
+
+&lt;p&gt;[0] &lt;a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/glitch.pdf"&gt;http://research.microsoft.com/en-us/um/people/lamport/pubs/glitch.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Tom Santero (&lt;a href="https://twitter.com/tsantero"&gt;@tsantero&lt;/a&gt;) is a Software Engineer at Helium Systems, writing Haskell and Erlang to connect things to the internet. Previously, Tom worked at the New York Times on Search infrastructure, and before that he ran evangelism at Basho Technologies. A native New Yorker, Tom recently defected to Fort Collins, CO, where he lives with his two cats nearby an obnoxiously loud freight train.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
 </content>
   </entry>
   <entry>
@@ -202,47 +249,6 @@
 &lt;hr /&gt;
 
 &lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the October meetup.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Ryan Zezeski on Memory by the Slab: The Tale of Bonwick's Slab Allocator</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/ryan-zezeski-memory-by-the-slab/"/>
-    <id>http://papers-we-love.github.io/2015/video/ryan-zezeski-memory-by-the-slab/</id>
-    <published>2015-09-14T20:00:00-04:00</published>
-    <updated>2015-10-14T19:59:50-04:00</updated>
-    <author>
-      <name>Darren</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/UQVd9mZr-jI" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="new-york---september-9-2015"&gt;New York - September 9, 2015&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Ryan Zezeski&lt;/strong&gt; on Memory by the Slab: The Tale of Bonwick's Slab Allocator&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://bit.ly/1PaYkPc"&gt;http://bit.ly/1PaYkPc&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://bit.ly/1VOACYe"&gt;http://bit.ly/1VOACYe&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/1WXP0jj"&gt;http://bit.ly/1WXP0jj&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/1jzYwKy"&gt;http://bit.ly/1jzYwKy&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In 1994 Jeff Bonwick presented his Slab Allocator at the USENIX SummerTechnical Conference. Over two decades later Google reports 35-thousand results for "slab allocator". CiteSeerX reports 93 citations. And many modern kernel allocators are based on his design, such as illumos, Linux, and FreeBSD. Jeff's design, along with the original paper, remains just as relevant today as it was 21 years ago. Join me as I tell the tale of the Slab Allocator: where it came from, what it is, why it's important, and where it's going.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Ryan Zezeski (@rzezeski) is an aspiring kernel hacker working at Lucera Financial Infrastructures. A primary contributor to the Riak distributed database. Author of the try-try-try Riak Core tutorials. And creator of project Yokozuna: a program which combined the powers of Riak and Solr. He once wrote a blog post on POSIX Real Time Signals that made a bunch of people mad and caused a bug to be filed against Oracle Solaris. Ryan loves reading about arcane operating system stuff and occasionally writes about it at zinascii.com. His spirit animal is W. Richard Stevens.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
-&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
 </content>
   </entry>
 </feed>
