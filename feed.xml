@@ -5,16 +5,157 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2015-11-30T19:00:00-05:00</updated>
+  <updated>2015-12-09T19:00:00-05:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>The Papers: Christopher Meiklejohn's A Brief History of Chain Replication</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2015/topic/christopher-meiklejohns-a-brief-history-of-chain-replication/"/>
+    <id>http://papers-we-love.github.io/2015/topic/christopher-meiklejohns-a-brief-history-of-chain-replication/</id>
+    <published>2015-12-09T19:00:00-05:00</published>
+    <updated>2015-12-10T01:00:04-05:00</updated>
+    <author>
+      <name>Zeeshan</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Meetup Spotlight:&lt;/strong&gt; &lt;a href="http://bit.ly/1QelqoU"&gt;http://bit.ly/1QelqoU&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;On December 10, 2015, &lt;a href="https://christophermeiklejohn.com/"&gt;Christopher Meikljohn&lt;/a&gt; is presenting at &lt;a href="http://www.meetup.com/papers-we-love-too"&gt;Papers We Love - San Francisco&lt;/a&gt; on the topic (and history) of &lt;strong&gt;Chain Replication&lt;/strong&gt;, a data replication technique that "promises a high throughput, linearizable, robust replication technique with minimal overhead to tolerate failures with only f+1 nodes[0]."&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Here's a look at some of the papers that will be discussed, starting with the original work:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/assets/images/cmeik_fig1.svg" height="270" alt="Figure from Chain Replication for Supporting High Throughput and Availability" /&gt;
+&lt;img src="/assets/images/cmeik_fig2.svg" height="270" alt="Figure from Chain replication in theory and in practice" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The List:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://www.cs.cornell.edu/home/rvr/papers/osdi04.pdf"&gt;Chain Replication for Supporting High Throughput and Availability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.sigops.org/sosp/sosp09/papers/andersen-sosp09.pdf"&gt;FAWN: A fast array of wimpy nodes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://sns.cs.princeton.edu/docs/craq-usenix09.pdf"&gt;Object storage on CRAQ: High-throughput chain replication for read-mostly workloads&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.snookles.com/scott/publications/erlang2010-slf.pdf"&gt;Chain replication in theory and in practice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://hyperdex.org/papers/hyperdex.pdf"&gt;HyperDex: A Distributed, Searchable Key-Value Store&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://eurosys2013.tudos.org/wp-content/uploads/2013/paper/Almeida.pdf"&gt;ChainReaction: a Causal+ Consistent Datastore based on Chain Replication&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.ymsir.com/papers/sharding-socc.pdf"&gt;Leveraging sharding in the design of scalable replication protocols&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id="chain-replication-for-supporting-high-throughput-and-availabilityhttpwwwcscornelleduhomervrpapersosdi04pdf"&gt;&lt;a href="http://www.cs.cornell.edu/home/rvr/papers/osdi04.pdf"&gt;Chain Replication for Supporting High Throughput and Availability&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Robbert van Renesse, Fred B Schneider
+&lt;strong&gt;Year:&lt;/strong&gt; 2004&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Published-in:&lt;/strong&gt; Proceedings of the 6th Conference on Symposium on Opearting Systems Design &amp;amp; Implementation&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Chain replication is a new approach to coordinating clusters of fail-stop storage servers. The approach is intended for supporting large-scale storage services that exhibit high throughput and availability without sacrificing strong consistency guarantees. Besides outlining the chain replication protocols themselves, simulation experiments explore the performance characteristics of a prototype implementation. Throughput, availability, and several object-placement strategies (including schemes based on distributed hash table routing) are discussed.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id="fawn-a-fast-array-of-wimpy-nodeshttpwwwsigopsorgsospsosp09papersandersen-sosp09pdf"&gt;&lt;a href="http://www.sigops.org/sosp/sosp09/papers/andersen-sosp09.pdf"&gt;FAWN: A fast array of wimpy nodes&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; David G. Andersen, Jason Franklin, Michael Kaminsky, Amar Phanishayee, Lawrence Tan, Vijay Vasudevan
+&lt;strong&gt;Year:&lt;/strong&gt; 2009&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Published-in:&lt;/strong&gt; Proceedings of the ACM SIGOPS 22nd symposium on Operating systems principles&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+This paper presents a new cluster architecture for low-power data- intensive computing. FAWN couples low-power embedded CPUs to small amounts of local flash storage, and balances computation and I/O capabilities to enable efficient, massively parallel access to data. The key contributions of this paper are the principles of the FAWN architecture and the design and implementation of FAWN-KV—a consistent, replicated, highly available, and high-performance key- value storage system built on a FAWN prototype. Our design centers around purely log-structured datastores that provide the basis for high performance on flash storage, as well as for replication and consistency obtained using chain replication on a consistent hashing ring. Our evaluation demonstrates that FAWN clusters can handle roughly 350 key-value queries per Joule of energy—two orders of magnitude more than a disk-based system.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id="object-storage-on-craq-high-throughput-chain-replication-for-read-mostly-workloadshttpsnscsprincetonedudocscraq-usenix09pdf"&gt;&lt;a href="http://sns.cs.princeton.edu/docs/craq-usenix09.pdf"&gt;Object storage on CRAQ: High-throughput chain replication for read-mostly workloads&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jeff Terrace and Michael J. Freedman
+&lt;strong&gt;Year:&lt;/strong&gt; 2009&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Published-in:&lt;/strong&gt; Proceedings of the 2009 conference on USENIX Annual technical conference - USENIX'09&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+Massive storage systems typically replicate and partition data over many potentially-faulty components to provide both reliability and scalability. Yet many commerciallydeployed systems, especially those designed for interactive use by customers, sacrifice stronger consistency properties in the desire for greater availability and higher throughput. This paper describes the design, implementation, and evaluation of CRAQ, a distributed object-storage system that challenges this inflexible tradeoff. Our basic approach, an improvement on Chain Replication, maintains strong consistency while greatly improving read throughput. By distributing load across all object replicas, CRAQ scales linearly with chain size without increasing consistency coordination. At the same time, it exposes noncommitted operations for weaker consistency guarantees when this suffices for some applications, which is especially useful under periods of high system churn. This paper explores additional design and implementation considerations for geo-replicated CRAQ storage across multiple datacenters to provide locality-optimized operations. We also discuss multi-object atomic updates and multicast optimizations for large-object updates.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id="chain-replication-in-theory-and-in-practicehttpwwwsnooklescomscottpublicationserlang2010-slfpdf"&gt;&lt;a href="http://www.snookles.com/scott/publications/erlang2010-slf.pdf"&gt;Chain replication in theory and in practice&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Scott Lystig Fritchie
+&lt;strong&gt;Year:&lt;/strong&gt; 2010&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Published-in:&lt;/strong&gt; Proceedings of the 9th ACM SIGPLAN workshop on Erlang - Erlang '10&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+When implementing a distributed storage system, using an algo- rithm with a formal definition and proof is a wise idea. However, translating any algorithm into effective code can be difficult be- cause the implementation must be both correct and fast. This paper is a case study of the implementation of the chain replication protocol in a distributed key-value store calledHibari. In theory, the chain replication algorithmis quite simple and should be straightforward to implement correctly. In practice, however, there were many implementation details that had effects both profound and subtle. The Erlang community, as well as distributed systems implementors in general, can use the lessons learned with Hibari (specifically in areas of performance enhancements and failure detection) to avoid many dangers that lurk at the interface between theory and real-world computing.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id="hyperdex-a-distributed-searchable-key-value-storehttphyperdexorgpapershyperdexpdf"&gt;&lt;a href="http://hyperdex.org/papers/hyperdex.pdf"&gt;HyperDex: A Distributed, Searchable Key-Value Store&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Robert Escriva, Bernard Wong, Emin Gün Sirer
+&lt;strong&gt;Year:&lt;/strong&gt; 2012&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Published-in:&lt;/strong&gt; Computer Communication Review&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+Distributed key-value stores are now a standard component of high-performance web services and cloud computing applications. While key-value stores offer significant performance and scalability advantages compared to traditional databases, they achieve these properties through a restricted API that limits object retrieval an object can only be retrieved by the (primary and only) key under which it was inserted. This paper presents HyperDex, a novel distributed key-value store that provides a unique search primitive that enables queries on secondary attributes. The key insight behind HyperDex is the concept of hyperspace hashing in which objects with multiple attributes are mapped into a multidimensional hyperspace. This mapping leads to efficient implementations not only for retrieval by primary key, but also for partially-specified secondary attribute searches and range queries. A novel chaining protocol enables the system to achieve strong consistency, maintain availability and guarantee fault tolerance. An evaluation of the full system shows that HyperDex is 12-13x faster than Cassandra and MongoDB for finding partially specified objects. Additionally, HyperDex achieves 2-4x higher throughput for get/put operations.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id="chainreaction-a-causal-consistent-datastore-based-on-chain-replicationhttpeurosys2013tudosorgwp-contentuploads2013paperalmeidapdf"&gt;&lt;a href="http://eurosys2013.tudos.org/wp-content/uploads/2013/paper/Almeida.pdf"&gt;ChainReaction: a Causal+ Consistent Datastore based on Chain Replication&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sérgio Almeida, João Leitão, Luís Rodrigues
+&lt;strong&gt;Year:&lt;/strong&gt; 2013&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Published-in:&lt;/strong&gt; Proceedings of The European Professional Society on Computer Systems (EuroSys)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+This paper proposes a Geo-distributed key-value datastore, named ChainReaction, that offers causal+ consistency, with high performance, fault-tolerance, and scalability. ChainReaction enforces causal+ consistency which is stronger than eventual consistency by leveraging on a new variant of chain replication.We have experimentally evaluated the benefits of our approach by running the Yahoo! Cloud Serving Benchmark. Experimental results show that ChainReaction has better performance in read intensive workloads while offering competitive performance for other workloads. Also we show that our solution requires less metadata when compared with previous work.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id="leveraging-sharding-in-the-design-of-scalable-replication-protocolshttpwwwymsircompaperssharding-soccpdf"&gt;&lt;a href="http://www.ymsir.com/papers/sharding-socc.pdf"&gt;Leveraging sharding in the design of scalable replication protocols&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hussam Abu-Libdeh, Robbert van Renesse, Ymir Vigfusson
+&lt;strong&gt;Year:&lt;/strong&gt; 2013&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Published-in:&lt;/strong&gt; Proceedings of the 4th annual Symposium on Cloud Computing&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+Most if not all datacenter services use sharding and repli- cation for scalability and reliability. Shards are more-or- less independent of one another and individually repli- cated. In this paper, we challenge this design philosophy and present a replication protocol where the shards inter- act with one another: A protocol running within shards ensures linearizable consistency, while the shards inter- act in order to improve availability.We provide a specifi- cation for the protocol, prove its safety, analyze its live- ness and availability properties, and evaluate a working implementation.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id="other-references"&gt;Other References&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/"&gt;Papers We Love - Seattle&lt;/a&gt;'s David Murray on Chain Replication for Supporting High Throughput and Availability - &lt;a href="https://www.youtube.com/watch?v=nEbD-qutsKo"&gt;Video&lt;/a&gt; : &lt;a href="http://bit.ly/1ITPeQ8"&gt;Meetup&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href="http://www.nuprl.org/FDLcontentAUXdocs/ChainRepl/"&gt;Formalizing the Chain Replication Protocol&lt;/a&gt; -
+This book collects materials used in the formalization of an important distributed algorithm, by Schneider and van Renesse, called Chain Replication. The chain replication algorithm provides a fault-tolerant distributed storage system and guarantees a strong consistency property. The material here includes: the original Schneider and van Renesse paper; a summary of the formalization method, by Bickford &amp;amp; Guaspari; a detailed outline of the formalization by Bickford; and a Nuprl library providing a formal account based on the Logic of Events described by Bickford and Constable.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href="https://www.mendeley.com/groups/7644501/papers-we-love/papers/added/0/tag/chain_replication/"&gt;Mendeley Tag for &lt;em&gt;cmjchainreplication&lt;/em&gt;&lt;/a&gt; - More resources and information about the papers mentioned here.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[0] &lt;a href="http://www.meetup.com/papers-we-love-too/events/224178870/"&gt;http://www.meetup.com/papers-we-love-too/events/224178870/&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
   <entry>
     <title>December Meetups</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2015/news/december-meetups/"/>
     <id>http://papers-we-love.github.io/2015/news/december-meetups/</id>
     <published>2015-11-30T19:00:00-05:00</published>
-    <updated>2015-12-09T19:00:33-05:00</updated>
+    <updated>2015-12-10T01:00:34-05:00</updated>
     <author>
       <name>Joshua</name>
     </author>
@@ -206,49 +347,6 @@
 &lt;/p&gt;
 
 &lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>October Meetups</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/news/october-meetups/"/>
-    <id>http://papers-we-love.github.io/2015/news/october-meetups/</id>
-    <published>2015-09-30T20:00:00-04:00</published>
-    <updated>2015-10-31T19:00:44-04:00</updated>
-    <author>
-      <name>Joshua</name>
-    </author>
-    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for October across a number of our chapters:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;New York 10/5&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love/events/225369741/"&gt;Tomas Petricek on Paul Feyerabend's The Against Method&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Philadelphia 10/6&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Philadelphia/events/222735322/"&gt;Stephanie Weirich on From System F to Typed Assembly Language&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Toronto 10/7&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/225592332/"&gt;Suhail Shergill on Reflection without Remorse&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Seattle 10/8&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/225127189/"&gt;Predicting Voice Elicited Emotions&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bangalore 10/10&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-we-love-Bangalore/events/225466834/"&gt;Overlapping Experiment Infrastructure with Srihari &amp;amp; Nivedita&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Addison 10/14&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Dallas/events/225737615/"&gt;Liniarizability: A Correctness Condition for Concurrent Objects&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Winnipeg 10/14&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Winnipeg/events/225858519/"&gt;Secrecy, Authentication, and Public Key Systems&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Saint Louis 10/19&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-in-saint-louis/events/225764551/"&gt;Robotic SLAM!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;London 10/21&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-London/events/225736762/"&gt;Emily Green on The PartTime Parliament (Paxos)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Montreal 10/22&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Montreal/events/225270663/"&gt;"A Short Cut to Deforestation" by Gill, Launchbury, Peyton Jones&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bangalore 10/24&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-we-love-Bangalore/events/225418614/"&gt;Logstructured merge-tree with Sreekanth Vadagiri&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Los Angeles 10/28&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-LA/events/225753033/"&gt;Sam L’ecuyer on  Macaroons: Cookies with Contextual Caveats&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;San Francisco 10/29&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-too/events/220964296/"&gt;Aysylu Greenberg on "Probabilistic Accuracy Bounds"&lt;/a&gt;
- &lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the October meetup.&lt;/p&gt;
 </content>
   </entry>
 </feed>
