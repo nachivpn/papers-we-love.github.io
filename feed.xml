@@ -5,10 +5,45 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2015-12-09T19:00:00-05:00</updated>
+  <updated>2015-12-31T19:00:00-05:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>January Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2016/news/january-meetups/"/>
+    <id>http://papers-we-love.github.io/2016/news/january-meetups/</id>
+    <published>2015-12-31T19:00:00-05:00</published>
+    <updated>2016-01-01T01:00:31-05:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for January across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bangalore 1/2&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-we-love-Bangalore/events/226944627/"&gt;Shor's Algorithm  Part&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bangalore 1/9&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-we-love-Bangalore/events/226999354/"&gt;Shor's Algorithm  Part&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vienna 1/13&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Vienna/events/227146653/"&gt;Lisp&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 1/14&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/226850256/"&gt;: The Dataflow Model and Millwheel: Fault tolerant stream processing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Madrid 1/20&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Madrid/events/227538205/"&gt;Path, Trees and Flowers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Montréal 1/20&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Montreal/events/227424625/"&gt;Better Bitmap Performance with Roaring Bitmaps&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Francisco 1/21&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-too/events/225730003/"&gt;Henry Robinson on "No compromises: distributed transactions with consistency.."&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 1/27&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/227565360/"&gt;.: Scalable Atomic Visibility with RAMP Transactions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Marina del Rey 1/27&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-LA/events/227508276/"&gt;Bill Berry on No Silver Bullet&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the January meetup.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>The Papers: Christopher Meiklejohn's A Brief History of Chain Replication</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2015/topic/christopher-meiklejohns-a-brief-history-of-chain-replication/"/>
@@ -303,47 +338,6 @@ This book collects materials used in the formalization of an important distribut
 
 &lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
 &lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Jim Benvenuto on Metaobject Protocols Why We Want Them And What Else They Can Do</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/jim-benvenuto-metaobject-protocols/"/>
-    <id>http://papers-we-love.github.io/2015/video/jim-benvenuto-metaobject-protocols/</id>
-    <published>2015-10-01T20:00:00-04:00</published>
-    <updated>2015-10-14T19:59:50-04:00</updated>
-    <author>
-      <name>Darren</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/SurLTjq53Og" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="los-angeles---october-2-2015"&gt;Los Angeles - October 2, 2015&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Jim Benvenuto&lt;/strong&gt; on Metaobject Protocols Why We Want Them And What Else They Can Do&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/Papers-We-Love-LA/events/225395217/"&gt;http://www.meetup.com/Papers-We-Love-LA/events/225395217/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://cseweb.ucsd.edu/~vahdat/papers/mop.pdf"&gt;http://cseweb.ucsd.edu/~vahdat/papers/mop.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This month Jim presented "Metaobject Protocols: Why We Want Them And What Else They Can Do" by Kiczales, Ashley, Rodriguez, Vahdat &amp;amp; Bobrow.&lt;/p&gt;
-
-&lt;p&gt;Abstraction is one of the pillars of computer science. Software has traditionally been constructed according to the principle that a module should expose its functionality but hide its implementation. This principle, informally known as black-box abstraction, is a basic tenet of software design, underlying our approaches to portability, reuse,and many other important issues in computing. However, in some cases black-box abstraction causes the very problems it is supposed to eliminate.&lt;/p&gt;
-
-&lt;p&gt;As a programming languages becomes higher and higher level, its implementation in terms of the underlying machines involves more and more trade-offs on the part of the implementer, about what cases to optimize at the expense of other cases. This leaves a programmer victim to inefficiencies driving them to break language abstractions and "code between the lines" making code more complex and less portable.&lt;/p&gt;
-
-&lt;p&gt;Meta-object protocols are a principled way of getting the most out of abstraction. It is a way to allow the end-programmer to go back and remake design tradeoffs to better suite their needs. In addition Meta-object protocols are an extremely fascinating and elegant formalism.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
-&lt;a href="https://www.brainiumstudios.com/"&gt;&lt;img src="http://www.brainiumstudios.com/wp-content/uploads/2014/02/Logo.png" alt="Brainium" title="Brainium" style="padding: .3em; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;Papers We Love Los Angeles would like to thank &lt;a href="http://www.brainiumstudios.com"&gt;Brainium&lt;/a&gt; for hosting this month's meetup.&lt;/span&gt;
 &lt;/p&gt;
 
 &lt;hr /&gt;
