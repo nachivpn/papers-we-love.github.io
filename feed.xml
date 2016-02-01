@@ -5,10 +5,37 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2015-12-31T19:00:00-05:00</updated>
+  <updated>2016-01-31T19:00:00-05:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>February Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2016/news/february-meetups/"/>
+    <id>http://papers-we-love.github.io/2016/news/february-meetups/</id>
+    <published>2016-01-31T19:00:00-05:00</published>
+    <updated>2016-02-01T01:00:33-05:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for February across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Toronto 2/3&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/228164451/"&gt;Scott Rostrup on Tracing the MetaLevel: PyPy’s Tracing JIT Compiler&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New York 2/11&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love/events/228110831/"&gt;Bryan Cantrill on Jails &amp;amp; Solaris Zones&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 2/11&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/227211670/"&gt;: Chord&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Saint Louis 2/15&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-in-saint-louis/events/226153908/"&gt;Drawing Rooted Trees in Linear Time&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Montréal 2/24&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Montreal/events/228174489/"&gt;Abstract Interpretation by Cousot and Cousot&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the February meetup.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>January Meetups</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2016/news/january-meetups/"/>
@@ -308,51 +335,6 @@ This book collects materials used in the formalization of an important distribut
 &lt;hr /&gt;
 
 &lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the November meetup.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Tomas Petricek on The Against Method</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/tomas-petricek-against-the-method/"/>
-    <id>http://papers-we-love.github.io/2015/video/tomas-petricek-against-the-method/</id>
-    <published>2015-10-04T20:00:00-04:00</published>
-    <updated>2015-10-14T19:59:50-04:00</updated>
-    <author>
-      <name>Darren</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/jzD1O_gastA" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="new-york---october-5-2015"&gt;New York - October 5, 2015&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Tomas Petricek&lt;/strong&gt; on The Against Method&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://bit.ly/1VOG3eT"&gt;http://bit.ly/1VOG3eT&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://bit.ly/1Lhaxfo"&gt;http://bit.ly/1Lhaxfo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/1G1QPHK"&gt;http://bit.ly/1G1QPHK&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/1jzWz0J"&gt;http://bit.ly/1jzWz0J&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;How is computer science research done? What we take for granted and what we question? And how do theories in computer science tell us something about the real world? Those are some of the questions that may inspire computer scientist like me (and you!) to look into philosophy of science. I’ll present the work of one of the more extreme (and interesting!) philosophers of science, Paul Feyerabend. In “Against Method”, Feyerabend looks at the history of science and finds that there is no fixed scientific methodology and the only methodology that can encompass the rich history is ‘anything goes’. We see (not only computer) science as a perfect methodology for building correct knowledge, but is this really the case? To quote Feyerabend:&lt;/p&gt;
-
-&lt;p&gt;"Science is much more 'sloppy' and 'irrational' than its methodological image."&lt;/p&gt;
-
-&lt;p&gt;I’ll be mostly talking about Paul Feyerabend’s “Against Method”, but as a computer scientist myself, I’ll insert a number of examples based on my experience with theoretical programming language research. I hope to convince you that looking at philosophy of science is very much worthwhile if we want to better understand what we do and how we do it as computer scientists!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Tomas Petricek (&lt;a href="https://twitter.com/tomaspetricek"&gt;@tomaspetricek&lt;/a&gt;) recently submitted his PhD thesis at University of Cambridge on context-aware programming languages. He is active in the functional programming community, contributes to various F# open-source libraries, writes and talks about F# and offers trainings and consulting at fsharpWorks. When he isn’t writing equations or code, he enjoys reading philosophy of science books and occasionally publishes an essay combining philosophy and computer science.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
-&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
 </content>
   </entry>
 </feed>
