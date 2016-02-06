@@ -233,6 +233,44 @@ This book collects materials used in the formalization of an important distribut
 </content>
   </entry>
   <entry>
+    <title>Alberto Cortés on Diff and Blame: an intuitive overview</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/alberto-cortes-diff-and-blame-an-intuitive-overview/"/>
+    <id>http://papers-we-love.github.io/2015/video/alberto-cortes-diff-and-blame-an-intuitive-overview/</id>
+    <published>2015-12-01T19:00:00-05:00</published>
+    <updated>2016-02-06T18:30:30-05:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/P18BYZvnSx8" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="madrid---december--2-2015"&gt;Madrid - December  2, 2015&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Alberto Cortés&lt;/strong&gt; on Diff and Blame: an intuitive overview&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/Papers-We-Love-Madrid/events/226986420/"&gt;http://www.meetup.com/Papers-We-Love-Madrid/events/226986420/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://www.xmailserver.org/diff2.pdf"&gt;An O(ND) Difference Algorithm and Its Variations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="https://users.soe.ucsc.edu/~ejw/papers/MSR26s-zimmermann.pdf"&gt;Mining Version Archives for Co-changed Lines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="https://drive.google.com/a/v25media.com/file/d/0B05KyBUlYY2TYWlZQVJUaGlwQ2s/view"&gt;https://drive.google.com/a/v25media.com/file/d/0B05KyBUlYY2TYWlZQVJUaGlwQ2s/view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;En esta ocasión tenemos la suerte de contar con Alberto Cortés, que nos hablará de sus experiencias sobre Diff/Blame y cómo están construyendo su propia versión en Go&lt;/p&gt;
+
+&lt;p&gt;Diff es una algoritmo venerable, desarrollado en 1970 para Unix; básicamente es una distancia de Levenshtein, pero orientado a líneas en vez de a carácter. Git-blame utiliza diff de una forma bastante interesante para detectar qué commit fue el último en modificar cada línea de un fichero.&lt;/p&gt;
+
+&lt;p&gt;Durante la charla se revisarán como funcionan ambos algoritmos, diff y blame, de una forma intuitiva y Alberto nos hablará de los papers y recursos que ha utilizado para llevar a cabo su desarrollo.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img class="left no-shadow" alt="ShuttleCloud" style="width: 120px" src="https://s3.amazonaws.com/image.infoarmy/1381336805080.png" /&gt;&lt;br /&gt;
+The &lt;strong&gt;Madrid Chapter&lt;/strong&gt; would like to give special thanks to &lt;a href="https://www.shuttlecloud.com/"&gt;ShuttleCloud&lt;/a&gt; for providing the venue for this meetup.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>December Meetups</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2015/news/december-meetups/"/>
     <id>http://papers-we-love.github.io/2015/news/december-meetups/</id>
@@ -304,45 +342,6 @@ This book collects materials used in the formalization of an important distribut
 &lt;/p&gt;
 
 &lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>November Meetups</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/news/november-meetups/"/>
-    <id>http://papers-we-love.github.io/2015/news/november-meetups/</id>
-    <published>2015-10-31T20:00:00-04:00</published>
-    <updated>2015-11-30T20:44:18-05:00</updated>
-    <author>
-      <name>Joshua</name>
-    </author>
-    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for November across a number of our chapters:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Toronto 11/4&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/226167802/"&gt;Raveesh Nagpal on An Error Model for Pointing Based on Fitts’ Law&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Vienna 11/5&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Vienna/events/225544086/"&gt;Out of the Tar Pit (part )&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bangalore 11/7&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-we-love-Bangalore/events/225439494/"&gt;A Geocoding Algorithm Based On A Comparative Study with Shravanthi&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Seattle 11/12&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/225811209/"&gt;: Survivable Key Compromise in Software Update Systems&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Saint Louis 11/16&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-in-saint-louis/events/226155831/"&gt;Differential Expression Analysis: Finding Genes that Matter&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;London 11/18&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-London/events/226303374/"&gt;Camilla MontonenSupport Vector Machines and Kernels for Computational Biology.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;New York 11/19&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love/events/226193314/"&gt;Tom Santero on Leslie Lamport's Buridan’s Principle&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;San Francisco 11/19&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-too/events/224178862/"&gt;Gareth Morgan on The Rendering Equation&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Munich 11/24&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Munich/events/224164184/"&gt;Probabilistic Programming&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Montréal 11/25&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Montreal/events/225581672/"&gt;"A Survey of Monte Carlo Tree Search Methods"&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Winnipeg 11/25&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Winnipeg/events/226080050/"&gt;Do Artifacts Have Politics?&lt;/a&gt;
- &lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the November meetup.&lt;/p&gt;
 </content>
   </entry>
 </feed>
