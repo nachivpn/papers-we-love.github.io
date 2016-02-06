@@ -307,46 +307,42 @@ This book collects materials used in the formalization of an important distribut
 </content>
   </entry>
   <entry>
-    <title>Gareth Morgan on The Rendering Equation</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/gareth-morgan-the-rendering-equation/"/>
-    <id>http://papers-we-love.github.io/2015/video/gareth-morgan-the-rendering-equation/</id>
+    <title>November Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2015/news/november-meetups/"/>
+    <id>http://papers-we-love.github.io/2015/news/november-meetups/</id>
     <published>2015-10-31T20:00:00-04:00</published>
-    <updated>2016-02-06T17:43:00-05:00</updated>
+    <updated>2015-11-30T20:44:18-05:00</updated>
     <author>
       <name>Joshua</name>
     </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/QrVVMGpY7s8" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for November across a number of our chapters:&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toronto 11/4&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/226167802/"&gt;Raveesh Nagpal on An Error Model for Pointing Based on Fitts’ Law&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id="san-francisco---november--1-2015"&gt;San Francisco - November  1, 2015&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Vienna 11/5&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Vienna/events/225544086/"&gt;Out of the Tar Pit (part )&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Gareth Morgan&lt;/strong&gt; on The Rendering Equation&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bangalore 11/7&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-we-love-Bangalore/events/225439494/"&gt;A Geocoding Algorithm Based On A Comparative Study with Shravanthi&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tony Arcieri&lt;/strong&gt; on Macaroons: Cookies with Contextual Caveats&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Seattle 11/12&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/225811209/"&gt;: Survivable Key Compromise in Software Update Systems&lt;/a&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/papers-we-love-too/events/224178862/"&gt;http://www.meetup.com/papers-we-love-too/events/224178862/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Paper: The Rendering Equation&lt;/strong&gt; &lt;a href="http://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S08/lectures/kajiya.pdf"&gt;http://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S08/lectures/kajiya.pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Paper: Macaroons&lt;/strong&gt; &lt;a href="http://theory.stanford.edu/~ataly/Papers/macaroons.pdf"&gt;http://theory.stanford.edu/~ataly/Papers/macaroons.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Saint Louis 11/16&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-in-saint-louis/events/226155831/"&gt;Differential Expression Analysis: Finding Genes that Matter&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;London 11/18&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-London/events/226303374/"&gt;Camilla MontonenSupport Vector Machines and Kernels for Computational Biology.&lt;/a&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;New York 11/19&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love/events/226193314/"&gt;Tom Santero on Leslie Lamport's Buridan’s Principle&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Gareth Morgan&lt;/strong&gt; on The Rendering Equation. From Gareth: "This paper is one of the most important 3D graphics papers in the subject's history.  The rendering equation put forth by James Kajiya is the foundation of many of the rendering techniques used in modern graphics. Anytime a computer generates physically accurate image it is actually attempting to solve the rendering equation"&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;San Francisco 11/19&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-too/events/224178862/"&gt;Gareth Morgan on The Rendering Equation&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Gareth Morgan has been involved in games and 3D graphics since 1999, starting at Silicon Graphics followed by several games companies including Activision and BAM Studios. Since 2008 he has been working at Imagination Technologies researching sophisticated rendering techniques using Imagination's ray tracing technology.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Munich 11/24&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Munich/events/224164184/"&gt;Probabilistic Programming&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tony Arcieri&lt;/strong&gt; on Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Montréal 11/25&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Montreal/events/225581672/"&gt;"A Survey of Monte Carlo Tree Search Methods"&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Tony Arcieri is a @SquareEng CyberSecurity Engineer. He cybertweets about cybercrypto and cyberprivacy. Cyberinventor of @celluloidrb and @TheCryptosphere.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Winnipeg 11/25&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Winnipeg/events/226080050/"&gt;Do Artifacts Have Politics?&lt;/a&gt;
+ &lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;img class="left no-shadow" alt="Fastly" style="width: 180px" src="http://mediaserver.pulse2.com/wp-content/uploads/2014/09/Fastly-Logo.png" /&gt;&lt;br /&gt;
-The &lt;strong&gt;San Francisco Chapter&lt;/strong&gt; would like to give special thanks to &lt;a href="https://www.fastly.com"&gt;Fastly&lt;/a&gt; for sponsoring the November meetup.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the November meetup.&lt;/p&gt;
 </content>
   </entry>
 </feed>
