@@ -45,6 +45,45 @@
 </content>
   </entry>
   <entry>
+    <title>Henry Robinson on No compromises: distributed transactions with consistency, availability, and performance</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2016/video/henry-robinson-no-compromises-distributed-transactions-with-consistency-availability-and-performance/"/>
+    <id>http://papers-we-love.github.io/2016/video/henry-robinson-no-compromises-distributed-transactions-with-consistency-availability-and-performance/</id>
+    <published>2016-01-20T19:00:00-05:00</published>
+    <updated>2016-02-06T18:43:27-05:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/Iy7nXE5XaZ0" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="san-francisco---january-21-2016"&gt;San Francisco - January 21, 2016&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Henry Robinson&lt;/strong&gt; on &lt;a href="http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/227-dragojevic.pdf"&gt;No compromises: distributed transactions with consistency, availability, and performance&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bryan Fink&lt;/strong&gt; on &lt;a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127902"&gt;Fluctuations of Hi-Hat Timing and Dynamics in a Virtuoso Drum Track of a Popular Music Recording&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/papers-we-love-too/events/225730003/"&gt;http://www.meetup.com/papers-we-love-too/events/225730003/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/227-dragojevic.pdf"&gt;No compromises: distributed transactions with consistency, availability, and performance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127902"&gt;Fluctuations of Hi-Hat Timing and Dynamics in a Virtuoso Drum Track of a Popular Music Recording&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="https://speakerdeck.com/paperswelove/2016-henry-robinson-on-no-compromises-distributed-transactions-with-consistency"&gt;Henry Robinson&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="https://t.co/tjHBwdx5EB"&gt;Bryan Fink&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Bios&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Henry&lt;/strong&gt; is an engineer at Cloudera, where he has worked for five years on a wide variety of distributed systems. He currently works full-time on Impala, a SQL query engine for data stored in HDFS. Before Cloudera, he worked on ad-hoc networking at Cambridge University. He writes infrequently about databases and distributed systems at &lt;a href="http://the-paper-trail.org/"&gt;http://the-paper-trail.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bryan&lt;/strong&gt; hacks distributed systems by day, and does almost anything else by night. His interests in percussion and computers began nearly coincidentally over twenty years ago in a small town on the Great Plains. The combination has led to him having strange thoughts about time and coordination.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img class="left no-shadow" alt="Fastly" style="width: 180px" src="http://mediaserver.pulse2.com/wp-content/uploads/2014/09/Fastly-Logo.png" /&gt;&lt;br /&gt;
+The &lt;strong&gt;San Francisco Chapter&lt;/strong&gt; would like to give special thanks to &lt;a href="https://www.fastly.com"&gt;Fastly&lt;/a&gt; for sponsoring the January meetup.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>January Meetups</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2016/news/january-meetups/"/>
     <id>http://papers-we-love.github.io/2016/news/january-meetups/</id>
@@ -297,51 +336,6 @@ The &lt;strong&gt;Madrid Chapter&lt;/strong&gt; would like to give special thank
 &lt;hr /&gt;
 
 &lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the December meetup.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Tom Santero on Leslie Lamport's Buridan’s Principle</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/tom-santero-buridans-principle/"/>
-    <id>http://papers-we-love.github.io/2015/video/tom-santero-buridans-principle/</id>
-    <published>2015-11-18T19:00:00-05:00</published>
-    <updated>2015-12-10T09:08:32-05:00</updated>
-    <author>
-      <name>Zeeshan</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/dVkSJ0QWzXA" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="new-york---november-19-2015"&gt;New York - November 19, 2015&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Tom Santero&lt;/strong&gt; on Leslie Lamport's Buridan’s Principle&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://bit.ly/1NTZy22"&gt;http://bit.ly/1NTZy22&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://bit.ly/21MPCvo"&gt;http://bit.ly/21MPCvo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/1OOfVfi"&gt;http://bit.ly/1OOfVfi&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/1NFtzAB"&gt;http://bit.ly/1NFtzAB&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In 1984 Leslie Lamport began to observe the glitch problem [&lt;a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/glitch.pdf"&gt;0&lt;/a&gt;] occurs in everyday life. Realizing this phenomenon had not been discussed by psychologists of the day, he set out to describe his observations using the classical formalization of Buridan's ass. Lamport initially failed to have this paper published in various scientific journals, being rejected on grounds of superficiality. It wasn't until 2011, when a reader suggested he resubmit to Foundations of Physics, that the paper was eventually published.&lt;/p&gt;
-
-&lt;p&gt;Those familiar with the works of Lamport know him as a logician, his life's work has pushed forward the state of the art in areas of mutual exclusion and distributed systems probably more than any other, and so reading Buridan's Principle might strike us as a bit odd, or even obscure. We're in unfamiliar territory with Lamport. Nonetheless, in this paper, Lamport's casual observations lead him to bridge the gap between the humanities and the sciences, providing us readers with what appears to be a universal law of nature: Buridan's Principle.&lt;/p&gt;
-
-&lt;p&gt;[0] &lt;a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/glitch.pdf"&gt;http://research.microsoft.com/en-us/um/people/lamport/pubs/glitch.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Tom Santero (&lt;a href="https://twitter.com/tsantero"&gt;@tsantero&lt;/a&gt;) is a Software Engineer at Helium Systems, writing Haskell and Erlang to connect things to the internet. Previously, Tom worked at the New York Times on Search infrastructure, and before that he ran evangelism at Basho Technologies. A native New Yorker, Tom recently defected to Fort Collins, CO, where he lives with his two cats nearby an obnoxiously loud freight train.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
-&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
 </content>
   </entry>
 </feed>
