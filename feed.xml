@@ -45,6 +45,43 @@
 </content>
   </entry>
   <entry>
+    <title>Bill Berry on No Silver Bullet</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2016/video/bill-berry-no-silver-bullet/"/>
+    <id>http://papers-we-love.github.io/2016/video/bill-berry-no-silver-bullet/</id>
+    <published>2016-01-26T19:00:00-05:00</published>
+    <updated>2016-02-07T14:11:17-05:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/qEuv6O9kSuw" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="los-angeles---january-27-2016"&gt;Los Angeles - January 27, 2016&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Bill Berry&lt;/strong&gt; on &lt;a href="http://worrydream.com/refs/Brooks-NoSilverBullet.pdf"&gt;No Silver Bullet&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/Papers-We-Love-LA/events/227508276/"&gt;http://www.meetup.com/Papers-We-Love-LA/events/227508276/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://worrydream.com/refs/Brooks-NoSilverBullet.pdf"&gt;No Silver Bullet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://williamberryiii.github.io/NoSilverBullet/#/"&gt;http://williamberryiii.github.io/NoSilverBullet/#/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Some thirty years after Turing Award winner Fred Brooks’ seminal work &lt;em&gt;No Silver Bullet&lt;/em&gt; was published, the industry has paved over his enthusiastic skepticism, with an air of pessimism and apathy.  After tearing down the failed software development methodologies of our predecessors, I will leverage Brooks’ work to frame a critique of current industry themes such as DevOps, Microservices, and Cloud Computing.  Lest however, you be consumed by an unshakable hopelessness that, as an industry, we are bound to Santayana’s Sisyphean prophesy (‘those who don’t learn from history are bound to repeat it’), I will show that Brooks’ theories are alive, well and in fact thriving in niche communities paving our way forward.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In a previous life, &lt;a href="https://twitter.com/@williamberryiii"&gt;Bill&lt;/a&gt; crafted scenery for Broadway, a la Pirates of Penzance, but now crafts software for the enterprise, a la Pirates of Silicon Valley. In his roles as Technical Lead and Application Architect for The Retail Equation, Bill has lead service integrations with Fortune 500 retailers, curated DevOps initiatives and always enjoys building high performance, multi-tenant distributed data APIs. As a deeply curious engineer, he enjoys pairing complex problems with simple and elegant solutions. Striving for meaningful change, Bill believes that cultural and technical progress is best made through evolution and not revolution.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img class="left no-shadow" alt="Dollar Shave Club" style="width: 200px" src="http://www.razorpedia.com/uploads/1/6/1/5/16156026/157893_orig.jpg" /&gt;
+The &lt;strong&gt;Los Angeles Chapter&lt;/strong&gt; would like to give special thanks to &lt;a href="https://www.dollarshaveclub.com/"&gt;Dollar Shave Club&lt;/a&gt; for sponsoring the January meetup.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>Henry Robinson on No compromises: distributed transactions with consistency, availability, and performance</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2016/video/henry-robinson-no-compromises-distributed-transactions-with-consistency-availability-and-performance/"/>
     <id>http://papers-we-love.github.io/2016/video/henry-robinson-no-compromises-distributed-transactions-with-consistency-availability-and-performance/</id>
@@ -162,62 +199,6 @@ The &lt;strong&gt;Madrid Chapter&lt;/strong&gt; would like to give special thank
 &lt;hr /&gt;
 
 &lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the January meetup.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Nathan Taylor / Chris Meiklejohn on OS Scalability &amp; Chain Replication</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/nathan-taylor-chris-meiklejohn-os-scalability-chain-replication/"/>
-    <id>http://papers-we-love.github.io/2015/video/nathan-taylor-chris-meiklejohn-os-scalability-chain-replication/</id>
-    <published>2015-12-09T19:00:00-05:00</published>
-    <updated>2016-02-07T13:48:19-05:00</updated>
-    <author>
-      <name>Joshua</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/kaig7CL4-KU" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="san-francisco---december-10-2015"&gt;San Francisco - December 10, 2015&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Nathan Taylor&lt;/strong&gt; on OS Scalability&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Chris Meiklejohn&lt;/strong&gt; on Chain Replication&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Papers:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="https://www.usenix.org/legacy/event/osdi08/tech/full_papers/boyd-wickizer/boyd_wickizer.pdf"&gt;Corey: An Operating system for Many Cores&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://pdos.csail.mit.edu/papers/linux:osdi10.pdf"&gt;An analysis of Linux scalability to many cores&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.usenix.org/legacy/event/usenix09/tech/full_papers/terrace/terrace.pdf"&gt;Object Storage on CRAQ&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www.sigops.org/sosp/sosp09/papers/andersen-sosp09.pdf"&gt;FAWN: A Fast Array of Wimpy Nodes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www.snookles.com/scott/publications/erlang2010-slf.pdf"&gt;Chain Replication in Theory and in Practice&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://hyperdex.org/papers/hyperdex.pdf"&gt;HyperDex: A Distributed, Searchable Key-Value Store&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://eurosys2013.tudos.org/wp-content/uploads/2013/paper/Almeida.pdf"&gt;ChainReaction: a Causal + Consistent Datastore based on Chain Replication&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www.ymsir.com/papers/sharding-socc.pdf"&gt;Leveraging Sharding in the Design of Scalable Replication Protocols&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/papers-we-love-too/events/224178870/"&gt;http://www.meetup.com/papers-we-love-too/events/224178870/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Nathan Taylor&lt;/strong&gt;: This is a story that spans two low-level systems papers. While on the surface it's all about how to make operating systems scale, it's also a story about how the same researchers can tackle a problem from different angles, succeed each time, and yet end up with very different conclusions.&lt;/p&gt;
-
-&lt;p&gt;At OSDI '08 Silas Boyd-Swicker et al published Corey: An Operating system for Many Cores, which advocated for a fundamental restructuring of the operating system; they observed that scalability problems often manifest because of data unintentionally shared between CPUs, so their research OS provided improved abstractions for programmers to inform the kernel about what is supposed to be local to a particular core or thread.&lt;/p&gt;
-
-&lt;p&gt;At the subsequent OSDI, though, the same research lab published an analysis of Linux scalability to many cores, where they present the same problem – kernel scalability– but instead tackled it by finding individual bottlenecks and implementing tiny point fixes, mostly-hidden from application code.  This inverted approach worked so well that in their abstract they arguably recanted the conclusion from their earlier work: "…there is no scalability reason to give up on traditional OS organizations yet."&lt;/p&gt;
-
-&lt;p&gt;These papers, together, are interesting to me for a bunch of reasons.  The former advocates for better application control of data sharing by exposing new abstraction primitives, whereas the OS remains in the latter paper an opaque layer where we're to be mostly content at not having to look underneath the hood.  Seeing two seemingly opposing philosophies work equally well was a surprising result to me.  It's also interesting how the tacit assumptions we make can cause wildly different systems to be built.  In one, it's treated as axiomatic that a new software architecture is needed, whereas in the other the very first sentence questions the "traditional architectures don't scale" assumption.  And, of course, when so many people build careers out of asserting that There's Only One Way To Solve This Problem, it's refreshing to see the same group of researchers try different approaches in such quick succession.&lt;/p&gt;
-
-&lt;p&gt;Nathan is currently working on low-latency content distribution at Fastly and has previously hacked on improving the performance of language runtimes and OS hypervisors. His first exposure to OS research came as a graduate student at the University of British Columbia.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Chris Meiklejohn&lt;/strong&gt;: Chain replication promises a high throughput, linearizable, robust replication technique with minimal overhead to tolerate failures with only f+1 nodes. But, what's the reason for so many systems choosing alternative techniques such as quorum-based or state machine replication? In this talk, we talk through a history of chain replication, starting with the original work from 2004 by van Renesse and Schneider. We will look at the various systems built using chain replication: Hibari, FAWN-KV, and CRAQ. We'll explore safer designs of chain replication, such as the elastic replication work in 2013, and finally look a new and unique designs of chain replication, such as Basho's Machi system.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://twitter.com/cmeik"&gt;Christopher Meiklejohn&lt;/a&gt; is a Senior Software Engineer with Machine Zone, Inc. working on distributed systems. Previously, Christopher worked at Basho Technologies, Inc. on the distributed key-value store, Riak. In his spare time, Christopher develops a programming language for distributed computation, called Lasp. Christopher is starting his Ph.D. studies at the Université catholique de Louvain in Belgium in 2016. &lt;a href="http://christophermeiklejohn.com/"&gt;http://christophermeiklejohn.com/&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;img class="left no-shadow" alt="Fastly" style="width: 180px" src="http://mediaserver.pulse2.com/wp-content/uploads/2014/09/Fastly-Logo.png" /&gt;&lt;br /&gt;
-The &lt;strong&gt;San Francisco Chapter&lt;/strong&gt; would like to give special thanks to &lt;a href="https://www.fastly.com"&gt;Fastly&lt;/a&gt; for sponsoring the December meetup.&lt;/p&gt;
 </content>
   </entry>
   <entry>
