@@ -306,41 +306,59 @@ This book collects materials used in the formalization of an important distribut
 </content>
   </entry>
   <entry>
-    <title>Alberto Cortés on Diff and Blame: an intuitive overview</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/alberto-cortes-diff-and-blame-an-intuitive-overview/"/>
-    <id>http://papers-we-love.github.io/2015/video/alberto-cortes-diff-and-blame-an-intuitive-overview/</id>
-    <published>2015-12-01T19:00:00-05:00</published>
-    <updated>2016-02-06T18:30:30-05:00</updated>
+    <title>Nathan Taylor / Chris Meiklejohn on OS Scalability &amp; Chain Replication</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2015/video/nathan-taylor-chris-meiklejohn-os-scalability-chain-replication/"/>
+    <id>http://papers-we-love.github.io/2015/video/nathan-taylor-chris-meiklejohn-os-scalability-chain-replication/</id>
+    <published>2015-12-09T19:00:00-05:00</published>
+    <updated>2016-02-07T13:48:19-05:00</updated>
     <author>
       <name>Joshua</name>
     </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/P18BYZvnSx8" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/kaig7CL4-KU" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
-&lt;h2 id="madrid---december--2-2015"&gt;Madrid - December  2, 2015&lt;/h2&gt;
+&lt;h2 id="san-francisco---december-10-2015"&gt;San Francisco - December 10, 2015&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Alberto Cortés&lt;/strong&gt; on Diff and Blame: an intuitive overview&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nathan Taylor&lt;/strong&gt; on OS Scalability&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chris Meiklejohn&lt;/strong&gt; on Chain Replication&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Papers:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/Papers-We-Love-Madrid/events/226986420/"&gt;http://www.meetup.com/Papers-We-Love-Madrid/events/226986420/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://www.xmailserver.org/diff2.pdf"&gt;An O(ND) Difference Algorithm and Its Variations&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="https://users.soe.ucsc.edu/~ejw/papers/MSR26s-zimmermann.pdf"&gt;Mining Version Archives for Co-changed Lines&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="https://drive.google.com/a/v25media.com/file/d/0B05KyBUlYY2TYWlZQVJUaGlwQ2s/view"&gt;https://drive.google.com/a/v25media.com/file/d/0B05KyBUlYY2TYWlZQVJUaGlwQ2s/view&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.usenix.org/legacy/event/osdi08/tech/full_papers/boyd-wickizer/boyd_wickizer.pdf"&gt;Corey: An Operating system for Many Cores&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://pdos.csail.mit.edu/papers/linux:osdi10.pdf"&gt;An analysis of Linux scalability to many cores&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.usenix.org/legacy/event/usenix09/tech/full_papers/terrace/terrace.pdf"&gt;Object Storage on CRAQ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.sigops.org/sosp/sosp09/papers/andersen-sosp09.pdf"&gt;FAWN: A Fast Array of Wimpy Nodes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.snookles.com/scott/publications/erlang2010-slf.pdf"&gt;Chain Replication in Theory and in Practice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://hyperdex.org/papers/hyperdex.pdf"&gt;HyperDex: A Distributed, Searchable Key-Value Store&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://eurosys2013.tudos.org/wp-content/uploads/2013/paper/Almeida.pdf"&gt;ChainReaction: a Causal + Consistent Datastore based on Chain Replication&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.ymsir.com/papers/sharding-socc.pdf"&gt;Leveraging Sharding in the Design of Scalable Replication Protocols&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/papers-we-love-too/events/224178870/"&gt;http://www.meetup.com/papers-we-love-too/events/224178870/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;En esta ocasión tenemos la suerte de contar con Alberto Cortés, que nos hablará de sus experiencias sobre Diff/Blame y cómo están construyendo su propia versión en Go&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nathan Taylor&lt;/strong&gt;: This is a story that spans two low-level systems papers. While on the surface it's all about how to make operating systems scale, it's also a story about how the same researchers can tackle a problem from different angles, succeed each time, and yet end up with very different conclusions.&lt;/p&gt;
 
-&lt;p&gt;Diff es una algoritmo venerable, desarrollado en 1970 para Unix; básicamente es una distancia de Levenshtein, pero orientado a líneas en vez de a carácter. Git-blame utiliza diff de una forma bastante interesante para detectar qué commit fue el último en modificar cada línea de un fichero.&lt;/p&gt;
+&lt;p&gt;At OSDI '08 Silas Boyd-Swicker et al published Corey: An Operating system for Many Cores, which advocated for a fundamental restructuring of the operating system; they observed that scalability problems often manifest because of data unintentionally shared between CPUs, so their research OS provided improved abstractions for programmers to inform the kernel about what is supposed to be local to a particular core or thread.&lt;/p&gt;
 
-&lt;p&gt;Durante la charla se revisarán como funcionan ambos algoritmos, diff y blame, de una forma intuitiva y Alberto nos hablará de los papers y recursos que ha utilizado para llevar a cabo su desarrollo.&lt;/p&gt;
+&lt;p&gt;At the subsequent OSDI, though, the same research lab published an analysis of Linux scalability to many cores, where they present the same problem – kernel scalability– but instead tackled it by finding individual bottlenecks and implementing tiny point fixes, mostly-hidden from application code.  This inverted approach worked so well that in their abstract they arguably recanted the conclusion from their earlier work: "…there is no scalability reason to give up on traditional OS organizations yet."&lt;/p&gt;
+
+&lt;p&gt;These papers, together, are interesting to me for a bunch of reasons.  The former advocates for better application control of data sharing by exposing new abstraction primitives, whereas the OS remains in the latter paper an opaque layer where we're to be mostly content at not having to look underneath the hood.  Seeing two seemingly opposing philosophies work equally well was a surprising result to me.  It's also interesting how the tacit assumptions we make can cause wildly different systems to be built.  In one, it's treated as axiomatic that a new software architecture is needed, whereas in the other the very first sentence questions the "traditional architectures don't scale" assumption.  And, of course, when so many people build careers out of asserting that There's Only One Way To Solve This Problem, it's refreshing to see the same group of researchers try different approaches in such quick succession.&lt;/p&gt;
+
+&lt;p&gt;Nathan is currently working on low-latency content distribution at Fastly and has previously hacked on improving the performance of language runtimes and OS hypervisors. His first exposure to OS research came as a graduate student at the University of British Columbia.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chris Meiklejohn&lt;/strong&gt;: Chain replication promises a high throughput, linearizable, robust replication technique with minimal overhead to tolerate failures with only f+1 nodes. But, what's the reason for so many systems choosing alternative techniques such as quorum-based or state machine replication? In this talk, we talk through a history of chain replication, starting with the original work from 2004 by van Renesse and Schneider. We will look at the various systems built using chain replication: Hibari, FAWN-KV, and CRAQ. We'll explore safer designs of chain replication, such as the elastic replication work in 2013, and finally look a new and unique designs of chain replication, such as Basho's Machi system.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/cmeik"&gt;Christopher Meiklejohn&lt;/a&gt; is a Senior Software Engineer with Machine Zone, Inc. working on distributed systems. Previously, Christopher worked at Basho Technologies, Inc. on the distributed key-value store, Riak. In his spare time, Christopher develops a programming language for distributed computation, called Lasp. Christopher is starting his Ph.D. studies at the Université catholique de Louvain in Belgium in 2016. &lt;a href="http://christophermeiklejohn.com/"&gt;http://christophermeiklejohn.com/&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;img class="left no-shadow" alt="ShuttleCloud" style="width: 120px" src="https://s3.amazonaws.com/image.infoarmy/1381336805080.png" /&gt;&lt;br /&gt;
-The &lt;strong&gt;Madrid Chapter&lt;/strong&gt; would like to give special thanks to &lt;a href="https://www.shuttlecloud.com/"&gt;ShuttleCloud&lt;/a&gt; for providing the venue for this meetup.&lt;/p&gt;
+&lt;p&gt;&lt;img class="left no-shadow" alt="Fastly" style="width: 180px" src="http://mediaserver.pulse2.com/wp-content/uploads/2014/09/Fastly-Logo.png" /&gt;&lt;br /&gt;
+The &lt;strong&gt;San Francisco Chapter&lt;/strong&gt; would like to give special thanks to &lt;a href="https://www.fastly.com"&gt;Fastly&lt;/a&gt; for sponsoring the December meetup.&lt;/p&gt;
 </content>
   </entry>
 </feed>
