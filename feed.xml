@@ -5,10 +5,49 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2016-03-17T20:00:00-04:00</updated>
+  <updated>2016-03-31T20:00:00-04:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>April Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2016/news/april-meetups/"/>
+    <id>http://papers-we-love.github.io/2016/news/april-meetups/</id>
+    <published>2016-03-31T20:00:00-04:00</published>
+    <updated>2016-04-01T01:00:36-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for April across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hyderabad 4/2&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-hyderabad/events/229779925/"&gt;Review of the FLP Impossibility result&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Madrid 4/6&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Madrid/events/229616859/"&gt;Epidemic Broadcast Trees&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Toronto 4/6&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/229518049/"&gt;Andrew Louis on Memex &amp;amp; Designing the "Internet" Before Digital Computers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vienna 4/11&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Vienna/events/229435505/"&gt;Elm (part  of )&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 4/14&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/229471493/"&gt;: TBD&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Saint Louis 4/18&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-in-saint-louis/events/228887483/"&gt;The Molecular Fossil Record of Oleanane and Its Relation to Angiosperms&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Philadelphia 4/19&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Philadelphia/events/229495877/"&gt;Maurício Linhares on "Harvest, Yield and Scalable Tolerant Systems”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New York 4/19&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love/events/229695738/"&gt;Chris Martens on Mexica&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Montréal 4/20&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Montreal/events/229838204/"&gt;Practical Reasoning with Qualified Number Restrictions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Winnipeg 4/20&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Winnipeg/events/229663801/"&gt;A Critical Evaluation of Website Fingerprinting Attacks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Francisco 4/21&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-too/events/228341143/"&gt;João Taveira on Congestion Control&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the April meetup.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Caitie McCaffrey on Sagas &amp; Gilbert Bernstein on Marching Cubes</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2016/video/caitie-mccaffrey-sagas/"/>
@@ -269,45 +308,6 @@ of production work due to utility execution.”&lt;/p&gt;
 &lt;/p&gt;
 
 &lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>February Meetups</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2016/news/february-meetups/"/>
-    <id>http://papers-we-love.github.io/2016/news/february-meetups/</id>
-    <published>2016-01-31T19:00:00-05:00</published>
-    <updated>2016-02-29T20:04:32-05:00</updated>
-    <author>
-      <name>Joshua</name>
-    </author>
-    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for February across a number of our chapters:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Toronto 2/3&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/228164451/"&gt;Scott Rostrup on Tracing the MetaLevel: PyPy’s Tracing JIT Compiler&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Madrid 2/10&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Madrid/events/228560302/"&gt;Building Program Vector Representations for Deep Learning&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;New York 2/11&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love/events/228110831/"&gt;Bryan Cantrill on Jails &amp;amp; Solaris Zones&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Seattle 2/11&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/227211670/"&gt;: Chord&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Winnipeg 2/12&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Winnipeg/events/228523758/"&gt;Petuum: A New Platform for Distributed Machine Learning on Big Data&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Saint Louis 2/15&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-in-saint-louis/events/226153908/"&gt;Drawing Rooted Trees in Linear Time&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;London 2/17&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-London/events/228749056/"&gt;Phil Potter on Dolstra's "The Purely Functional Software Deployment Model"&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;94107 2/18&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-too/events/227849450/"&gt;Matt Adereth on "A Scalable Bootstrap for Massive Data"&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bucharest 2/22&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-bucharest/events/228865091/"&gt;February Meetup&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Montréal 2/24&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Montreal/events/228174489/"&gt;Abstract Interpretation by Cousot and Cousot&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Los Angeles 2/24&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-LA/events/228619562/"&gt;Paul Snively on Propositions as Types&lt;/a&gt;
- &lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the February meetup.&lt;/p&gt;
 </content>
   </entry>
 </feed>
