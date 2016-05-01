@@ -5,10 +5,45 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2016-03-31T20:00:00-04:00</updated>
+  <updated>2016-04-30T20:00:00-04:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>May Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2016/news/may-meetups/"/>
+    <id>http://papers-we-love.github.io/2016/news/may-meetups/</id>
+    <published>2016-04-30T20:00:00-04:00</published>
+    <updated>2016-05-01T01:00:36-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for May across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Toronto 5/4&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/229468390/"&gt;Donny Nadolny on Rowhammer.js&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 5/12&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/230398379/"&gt;: CFA: A Practical Prediction System for Video QoE Optimization&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Saint Louis 5/16&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-in-saint-louis/events/228886786/"&gt;TBD&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vienna 5/17&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Vienna/events/230303045/"&gt;Elm (part  of )&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;London 5/17&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-London/events/230572344/"&gt;tef on "Endto-End Arguments In System Design" by Saltzer, Reed, and Clark&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Montréal 5/18&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Montreal/events/230513727/"&gt;The medcouple — a robust measure of skewness&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Francisco 5/19&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-too/events/228341293/"&gt;Gilbert Bernstein on Spacetime Constraints&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New York  5/25&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love/events/230555338/"&gt;John Allspaw on Common Ground and Coordination in Joint Activity&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Winnipeg 5/25&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Winnipeg/events/229663695/"&gt;On Computable Numbers&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the May meetup.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>April Meetups</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2016/news/april-meetups/"/>
@@ -263,54 +298,6 @@ of production work due to utility execution.”&lt;/p&gt;
 
 &lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
 &lt;a href="https://www.fastly.com/"&gt;&lt;img src="http://photos2.meetupstatic.com/photos/sponsor/2/2/3/a/iab120x90_2348762.jpeg" alt="Fastly" title="Fastly" style="margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;San Francisco Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.fastly.com"&gt;Fastly&lt;/a&gt; and &lt;a href="http://github.com/"&gt;GitHub&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Ramsey Nasser on PushPull++</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2016/video/ramsey-nasser-pushpull/"/>
-    <id>http://papers-we-love.github.io/2016/video/ramsey-nasser-pushpull/</id>
-    <published>2016-02-07T19:00:00-05:00</published>
-    <updated>2016-02-07T19:00:03-05:00</updated>
-    <author>
-      <name>Joshua</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/roO9UTG06Zs" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="new-york---january-28-2016"&gt;New York - January 28, 2016&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Ramsey Nasser&lt;/strong&gt; on &lt;a href="http://peterwonka.net/Publications/pdfs/2014.SG.Lipp.PushPull.pdf"&gt;PushPull++&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/papers-we-love/events/228110427/"&gt;http://www.meetup.com/papers-we-love/events/228110427/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://peterwonka.net/Publications/pdfs/2014.SG.Lipp.PushPull.pdf"&gt;PushPull++&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="https://speakerdeck.com/paperswelove/ramsey-nasser-on-pushpull-plus-plus"&gt;https://speakerdeck.com/paperswelove/ramsey-nasser-on-pushpull-plus-plus&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="https://www.mixcloud.com/paperswelove/ramsey-nasser-on-pushpull/"&gt;https://www.mixcloud.com/paperswelove/ramsey-nasser-on-pushpull/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Video demo:&lt;/strong&gt; &lt;a href="https://www.youtube.com/watch?v=lOYpaJWNPaU"&gt;https://www.youtube.com/watch?v=lOYpaJWNPaU&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="pushpull++" src="http://photos1.meetupstatic.com/photos/event/d/3/7/4/600_445914132.jpeg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;Of all the ways to manipulate a 3D mesh, the “push/pull” technique popularized by &lt;a href="http://www.sketchup.com/"&gt;SketchUp&lt;/a&gt; is one of the most approachable and fun. &lt;a href="http://peterwonka.net/Publications/pdfs/2014.SG.Lipp.PushPull.pdf"&gt;PushPull++&lt;/a&gt; is a recent paper that elaborates on the technique, cleaning up a lot of edge cases and unlocking new features, using wonderfully straightforward math. The potential for 3D modeling tools or procedural mesh generation APIs built on these simple ideas is very exciting.&lt;/p&gt;
-
-&lt;p&gt;The paper presents the technique and the tool that the authors built. I will focus on the technique, as that’s the part I loved more in this paper.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=lOYpaJWNPaU"&gt;Video demonstation&lt;/a&gt; of PushPull in action.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="http://nas.sr/"&gt;Ramsey Nasser&lt;/a&gt; is a computer scientist, game designer, and educator based in Brooklyn. He researches programming languages by building tools to make computation more expressive and implementing projects that question the basic assumptions we make about code itself. His games playfully push people out of their comfort zones, and are often written in experimental programming languages of his design. A former &lt;a href="http://eyebeam.org/"&gt;Eyebeam&lt;/a&gt; fellow and a member of &lt;a href="https://twitter.com/ktcoders"&gt;Kitchen Table Coders&lt;/a&gt;, when he is not reasoning about abstract unintuitive machines, he builds and maintains vintage motorcycles.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
-&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
 &lt;/p&gt;
 
 &lt;hr /&gt;
