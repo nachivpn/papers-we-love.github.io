@@ -5,39 +5,43 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2016-05-15T20:00:00-04:00</updated>
+  <updated>2016-05-31T20:00:00-04:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
   <entry>
-    <title>Ripollés &amp; Soberón on Building Program Vector Representations for Deep Learning</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2016/video/ripolles-soberon-building-program-vector-representations-for-deep-learning/"/>
-    <id>http://papers-we-love.github.io/2016/video/ripolles-soberon-building-program-vector-representations-for-deep-learning/</id>
-    <published>2016-05-15T20:00:00-04:00</published>
-    <updated>2016-05-17T08:55:40-04:00</updated>
+    <title>June Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2016/news/june-meetups/"/>
+    <id>http://papers-we-love.github.io/2016/news/june-meetups/</id>
+    <published>2016-05-31T20:00:00-04:00</published>
+    <updated>2016-06-01T01:00:33-04:00</updated>
     <author>
       <name>Joshua</name>
     </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/Ju2pRFVmgAk" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for June across a number of our chapters:&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toronto 6/1&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/231446949/"&gt;James MacAulay on Peter Landin's The Mechanical Evaluation of Expressions&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id="madrid---february-10-2016"&gt;Madrid - February 10, 2016&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;London 6/7&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-London/events/231387541/"&gt;Philip Wadler  Definitional Interpreters for Higher-Order Programming Languages&lt;/a&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/Papers-We-Love-Madrid/events/228560302/"&gt;http://www.meetup.com/Papers-We-Love-Madrid/events/228560302/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Chattanooga 6/7&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Chattanooga/events/230869596/"&gt;Neil Menne on Building Robust Systems&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id="ripolls--sobern-on-building-program-vector-representations-for-deep-learninghttparxivorgabs14093358"&gt;Ripollés &amp;amp; Soberón on &lt;a href="http://arxiv.org/abs/1409.3358"&gt;Building Program Vector Representations for Deep Learning&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Seattle 6/9&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/231024908/"&gt;: Liquid Haskell / PayWord and Micromint&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;The main problem when automatically analysing source code is finding a meaningful representation that captures the specific properties of programming languages. While there are widely adopted techniques for building “word embeddings” for natural language (like Word2vec), these are not applicable to source code, whose syntax and vocabulary are simpler .&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Salon D 6/14&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love/events/231394908/"&gt;QCon NYC Edition w/ Evelina, Eric, Ines, &amp;amp; Caitie&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;This paper presents a model for learning “code embeddings”, relying on the syntactic structure of the code, expressed as Abstract Syntax Trees, and how to use those embeddings for code classification tasks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Boston 6/16&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Boston-Cambridge/events/229948866/"&gt;Steve Willis on Xerox Network Systems (XNS)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vienna 6/20&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Vienna/events/231318183/"&gt;Apache Kafka&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Saint Louis 6/20&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-in-saint-louis/events/228275379/"&gt;What Makes Paris Look Like Paris?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Montréal 6/22&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Montreal/events/231254622/"&gt;A Streaming Algorithm for the Convex Hull&lt;/a&gt;
+ &lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;img class="left no-shadow" alt="ShuttleCloud" style="width: 200px" src="/images/shuttcloud.png" /&gt;
-The &lt;strong&gt;Madrid Chapter&lt;/strong&gt; would like to give special thanks to &lt;a href="https://www.shuttlecloud.com/"&gt;ShuttleCloud&lt;/a&gt; for sponsoring the February meetup.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the June meetup.&lt;/p&gt;
 </content>
   </entry>
   <entry>
@@ -82,6 +86,37 @@ The &lt;strong&gt;Madrid Chapter&lt;/strong&gt; would like to give special thank
 &lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Andrew Louis is software engineer from Toronto. After graduating from Computer Science at UofT, he co-founded and CTO’d ShopLocket, an ecommerce service which was acquired in 2014. He is currently working on a secret new project not terribly unrelated to the Memex.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Ripollés &amp; Soberón on Building Program Vector Representations for Deep Learning</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2016/video/ripolles-soberon-building-program-vector-representations-for-deep-learning/"/>
+    <id>http://papers-we-love.github.io/2016/video/ripolles-soberon-building-program-vector-representations-for-deep-learning/</id>
+    <published>2016-05-15T20:00:00-04:00</published>
+    <updated>2016-05-17T08:55:40-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/Ju2pRFVmgAk" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="madrid---february-10-2016"&gt;Madrid - February 10, 2016&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/Papers-We-Love-Madrid/events/228560302/"&gt;http://www.meetup.com/Papers-We-Love-Madrid/events/228560302/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="ripolls--sobern-on-building-program-vector-representations-for-deep-learninghttparxivorgabs14093358"&gt;Ripollés &amp;amp; Soberón on &lt;a href="http://arxiv.org/abs/1409.3358"&gt;Building Program Vector Representations for Deep Learning&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;The main problem when automatically analysing source code is finding a meaningful representation that captures the specific properties of programming languages. While there are widely adopted techniques for building “word embeddings” for natural language (like Word2vec), these are not applicable to source code, whose syntax and vocabulary are simpler .&lt;/p&gt;
+
+&lt;p&gt;This paper presents a model for learning “code embeddings”, relying on the syntactic structure of the code, expressed as Abstract Syntax Trees, and how to use those embeddings for code classification tasks.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img class="left no-shadow" alt="ShuttleCloud" style="width: 200px" src="/images/shuttcloud.png" /&gt;
+The &lt;strong&gt;Madrid Chapter&lt;/strong&gt; would like to give special thanks to &lt;a href="https://www.shuttlecloud.com/"&gt;ShuttleCloud&lt;/a&gt; for sponsoring the February meetup.&lt;/p&gt;
 </content>
   </entry>
   <entry>
@@ -238,56 +273,6 @@ feasible to break up LLTs mto sagas&lt;/p&gt;
 &lt;a href="https://www.fastly.com/"&gt;&lt;img src="http://photos2.meetupstatic.com/photos/sponsor/2/2/3/a/iab120x90_2348762.jpeg" alt="Fastly" title="Fastly" style="margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;San Francisco Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.fastly.com"&gt;Fastly&lt;/a&gt; and &lt;a href="http://github.com/"&gt;GitHub&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
 &lt;/p&gt;
 
-&lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Bryan Cantrill on Jails and Solaris Zones</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2016/video/bryan-cantrill-jails-and-solaris-zones/"/>
-    <id>http://papers-we-love.github.io/2016/video/bryan-cantrill-jails-and-solaris-zones/</id>
-    <published>2016-03-02T19:00:00-05:00</published>
-    <updated>2016-03-03T07:27:17-05:00</updated>
-    <author>
-      <name>Joshua</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/hgN8pCMLI2U" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="new-york---february-11-2016"&gt;New York - February 11, 2016&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Bryan Cantrill&lt;/strong&gt; on &lt;a href="https://us-east.manta.joyent.com/bcantrill/public/ppwl-cantrill-jails.pdf"&gt;Jails&lt;/a&gt; and &lt;a href="https://us-east.manta.joyent.com/bcantrill/public/ppwl-cantrill-zones.pdf"&gt;Solaris Zones&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/papers-we-love/events/228110831/"&gt;http://www.meetup.com/papers-we-love/events/228110831/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Papers:&lt;/strong&gt; &lt;a href="https://us-east.manta.joyent.com/bcantrill/public/ppwl-cantrill-jails.pdf"&gt;Jails&lt;/a&gt; &amp;amp; &lt;a href="https://us-east.manta.joyent.com/bcantrill/public/ppwl-cantrill-zones.pdf"&gt;Solaris Zones&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="https://speakerdeck.com/paperswelove/bryan-cantrill-on-jails-and-solaris-zones"&gt;https://speakerdeck.com/paperswelove/bryan-cantrill-on-jails-and-solaris-zones&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="https://www.mixcloud.com/paperswelove/bryan-cantrill-on-jails-solaris-zones/"&gt;https://www.mixcloud.com/paperswelove/bryan-cantrill-on-jails-solaris-zones/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id="description"&gt;Description&lt;/h2&gt;
-
-&lt;h3 id="jails-confining-the-omnipotent-root"&gt;Jails: Confining the omnipotent root.&lt;/h3&gt;
-
-&lt;p&gt;The traditional UNIX security model is simple but inexpressive. Adding fine-grained access control improves the expressiveness, but often dramatically increases both the cost of system management and implementation complexity. In environments with a more complex management model, with delegation of some management functions to parties under varying degrees of trust, the base UNIX model and most natural extensions are inappropriate at best. Where multiple mutually untrusting parties are introduced, "inappropriate" rapidly transitions to"nightmarish", especially with regards to data integrity and privacy protection. The FreeBSD "Jail" facility provides the ability to partition the operating system environment, while maintaining the simplicity of the UNIX "root" model. In Jail, users with privilege find that the scope of their requests is limited to the jail, allowing system administrators to delegate management capabilities for each virtual machine environment. Creating virtual machines in this manner has many potential uses; the most popular thus far has been for providing virtual machine services in Internet Service Provider environments.&lt;/p&gt;
-
-&lt;h3 id="solaris-zones-operating-system-support-for-consolidating-commercial-workloads"&gt;Solaris Zones: Operating System Support for Consolidating Commercial Workloads&lt;/h3&gt;
-
-&lt;p&gt;Server consolidation, which allows multiple workloads to run on the same system, has become increasingly important as a way to improve the utilization of computing resources and reduce costs. Consolidation is common in mainframe environments, where technology to support running multiple workloads and even multiple operating systems on the same hardware has been evolving since the late 1960’s. This technology is now becoming an important differentiator in the UNIX and Linux server market as well, both at the low end (virtual web hosting) and high end(traditional data center server consolidation).This paper introduces Solaris Zones (zones), a fully realized solution for server consolidation projects in a commercial UNIX operating system. By creating virtualized application execution environments within a single instance of the operating system, the facility strikes a unique balance between competing requirements. On the one hand, a system with multiple workloads needs to run those workloads in isolation, to ensure that applications can neither observe data from other applications nor affect their operation. It must also prevent applications from over-consuming system resources. On the other hand, the system as a whole has to be flexible, manageable, and observable, in order to reduce administrative costs and increase efficiency. By focusing on the support of multiple application environments rather than multiple operating system instances, zones meets isolation requirements without sacrificing manageability.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Bryan Cantrill (&lt;a href="@bcantrill"&gt;@bcantrill&lt;/a&gt;) is the CTO at Joyent, where he oversees worldwide development of the SmartOS and SmartDataCenter platforms, and the Node.js platform. Prior to joining Joyent, Bryan served as a Distinguished Engineer at Sun Microsystems, where he spent over a decade working on system software, from the guts of the kernel to client-code on the browser. In particular, he co-designed and implemented DTrace, a facility for dynamic instrumentation of production systems that won the Wall Street Journal's top Technology Innovation Award in 2006 and the USENIX Software Tools User Group Award in 2008. Bryan also co-founded the Fishworks group at Sun, where he designed and implemented the DTrace-based analytics facility for the Sun Storage 7000 series of appliances.&lt;/p&gt;
-
-&lt;p&gt;Bryan received the ScB magna cum laude with honors in Computer Science from Brown University.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
-&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; and &lt;a href="http://enigma.io/"&gt;Enigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
-&lt;/p&gt;
 &lt;hr /&gt;
 </content>
   </entry>
