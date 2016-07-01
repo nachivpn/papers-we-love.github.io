@@ -5,10 +5,47 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2016-06-13T20:00:00-04:00</updated>
+  <updated>2016-06-30T20:00:00-04:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>July Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2016/news/july-meetups/"/>
+    <id>http://papers-we-love.github.io/2016/news/july-meetups/</id>
+    <published>2016-06-30T20:00:00-04:00</published>
+    <updated>2016-07-01T01:00:39-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for July across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vienna 7/4&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Vienna/events/232042988/"&gt;July meetup&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chattanooga 7/5&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Chattanooga/events/231948068/"&gt;Lang Martin on Subtyping, Subclassing, and Trouble with OOP&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Toronto 7/6&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/232228762/"&gt;Suhail Shergill on Semantics of Probabilistic Programs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Francisco 7/14&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-too/events/228341271/"&gt;Paul Borrill on Time clocks and the reordering of events&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 7/14&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/231423465/"&gt;: The Art of the Propagator&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Saint Louis 7/18&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-in-saint-louis/events/230831412/"&gt;Arrow's Impossibility Theorem&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Montréal 7/20&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Montreal/events/232100387/"&gt;MultipleScattering Microfacet BSDFs with the Smith Model&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New York  7/27&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love/events/231862215/"&gt;Deniz Altınbüken on Chain Replication (old and new) &amp;amp; a Mini with Wes Chow&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Portland 7/27&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-PDX/events/232258136/"&gt;Seth Pellegrino on "In Search of an Understandable Consensus Algorithm" (Raft)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Boston 7/28&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Boston-Cambridge/events/232255392/"&gt;Tim Riser on Mastering the Game of Go with Deep Neural Networks &amp;amp; Tree Search&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the July meetup.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>John Allspaw on Common Ground and Coordination in Joint Activity</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2016/video/john-allspaw-common-ground/"/>
@@ -137,37 +174,6 @@
 </content>
   </entry>
   <entry>
-    <title>Ripollés &amp; Soberón on Building Program Vector Representations for Deep Learning</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2016/video/ripolles-soberon-building-program-vector-representations-for-deep-learning/"/>
-    <id>http://papers-we-love.github.io/2016/video/ripolles-soberon-building-program-vector-representations-for-deep-learning/</id>
-    <published>2016-05-15T20:00:00-04:00</published>
-    <updated>2016-05-17T08:55:40-04:00</updated>
-    <author>
-      <name>Joshua</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/Ju2pRFVmgAk" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="madrid---february-10-2016"&gt;Madrid - February 10, 2016&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/Papers-We-Love-Madrid/events/228560302/"&gt;http://www.meetup.com/Papers-We-Love-Madrid/events/228560302/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="ripolls--sobern-on-building-program-vector-representations-for-deep-learninghttparxivorgabs14093358"&gt;Ripollés &amp;amp; Soberón on &lt;a href="http://arxiv.org/abs/1409.3358"&gt;Building Program Vector Representations for Deep Learning&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;The main problem when automatically analysing source code is finding a meaningful representation that captures the specific properties of programming languages. While there are widely adopted techniques for building “word embeddings” for natural language (like Word2vec), these are not applicable to source code, whose syntax and vocabulary are simpler .&lt;/p&gt;
-
-&lt;p&gt;This paper presents a model for learning “code embeddings”, relying on the syntactic structure of the code, expressed as Abstract Syntax Trees, and how to use those embeddings for code classification tasks.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;img class="left no-shadow" alt="ShuttleCloud" style="width: 200px" src="/images/shuttcloud.png" /&gt;
-The &lt;strong&gt;Madrid Chapter&lt;/strong&gt; would like to give special thanks to &lt;a href="https://www.shuttlecloud.com/"&gt;ShuttleCloud&lt;/a&gt; for sponsoring the February meetup.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
     <title>Andrew Louis on The Memex and designing the Internet before digital computers</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2016/video/andrew-louis-on-the-memex-and-designing-the-internet-before-digital-computers/"/>
     <id>http://papers-we-love.github.io/2016/video/andrew-louis-on-the-memex-and-designing-the-internet-before-digital-computers/</id>
@@ -212,52 +218,34 @@ The &lt;strong&gt;Madrid Chapter&lt;/strong&gt; would like to give special thank
 </content>
   </entry>
   <entry>
-    <title>May Meetups</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2016/news/may-meetups/"/>
-    <id>http://papers-we-love.github.io/2016/news/may-meetups/</id>
-    <published>2016-04-30T20:00:00-04:00</published>
-    <updated>2016-05-31T19:00:38-04:00</updated>
+    <title>Ripollés &amp; Soberón on Building Program Vector Representations for Deep Learning</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2016/video/ripolles-soberon-building-program-vector-representations-for-deep-learning/"/>
+    <id>http://papers-we-love.github.io/2016/video/ripolles-soberon-building-program-vector-representations-for-deep-learning/</id>
+    <published>2016-05-15T20:00:00-04:00</published>
+    <updated>2016-05-17T08:55:40-04:00</updated>
     <author>
       <name>Joshua</name>
     </author>
-    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for May across a number of our chapters:&lt;/p&gt;
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/Ju2pRFVmgAk" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;strong&gt;Chattanooga 5/3&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Chattanooga/events/230675662/"&gt;Inaugural !&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Toronto 5/4&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/229468390/"&gt;Donny Nadolny on Rowhammer.js&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="madrid---february-10-2016"&gt;Madrid - February 10, 2016&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Hyderabad 5/8&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-hyderabad/events/230836131/"&gt;Object Space Visibility: Its applications to Games and Smart City(IoT)&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/Papers-We-Love-Madrid/events/228560302/"&gt;http://www.meetup.com/Papers-We-Love-Madrid/events/228560302/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Madrid 5/11&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Madrid/events/230806223/"&gt;HyParView: a membership protocol for reliable gossipbased broadcast&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="ripolls--sobern-on-building-program-vector-representations-for-deep-learninghttparxivorgabs14093358"&gt;Ripollés &amp;amp; Soberón on &lt;a href="http://arxiv.org/abs/1409.3358"&gt;Building Program Vector Representations for Deep Learning&lt;/a&gt;&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;Seattle 5/12&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/230398379/"&gt;: CFA: A Practical Prediction System for Video QoE Optimization&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The main problem when automatically analysing source code is finding a meaningful representation that captures the specific properties of programming languages. While there are widely adopted techniques for building “word embeddings” for natural language (like Word2vec), these are not applicable to source code, whose syntax and vocabulary are simpler .&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Vienna 5/17&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Vienna/events/230303045/"&gt;Elm (part  of )&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;London 5/17&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-London/events/230572344/"&gt;tef on "Endto-End Arguments In System Design" by Saltzer, Reed, and Clark&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Montréal 5/18&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Montreal/events/230513727/"&gt;The medcouple — a robust measure of skewness&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;San Francisco 5/19&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-too/events/228341293/"&gt;Gilbert Bernstein on Spacetime Constraints&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Amsterdam 5/25&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-amsterdam/events/230722227/"&gt;NonBlocking and Blocking Concurrent Queue Algorithms&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;London 5/25&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-London/events/231247776/"&gt;Gareth Morgan on "The Rendering Equation" by James Kajiya&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;New York  5/25&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love/events/230555338/"&gt;John Allspaw on Common Ground and Coordination in Joint Activity&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Winnipeg 5/25&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Winnipeg/events/229663695/"&gt;On Computable Numbers&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Los Angeles 5/25&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-LA/events/231208234/"&gt;Dr Ray Toal on Communicating Sequential Processes&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Boston 5/26&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Boston-Cambridge/events/230987877/"&gt;Douglas Creager on The Early History Of Smalltalk by Alan C. Kay&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bucharest 5/27&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-bucharest/events/231068120/"&gt;May Meetup&lt;/a&gt;
- &lt;/p&gt;
+&lt;p&gt;This paper presents a model for learning “code embeddings”, relying on the syntactic structure of the code, expressed as Abstract Syntax Trees, and how to use those embeddings for code classification tasks.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the May meetup.&lt;/p&gt;
+&lt;p&gt;&lt;img class="left no-shadow" alt="ShuttleCloud" style="width: 200px" src="/images/shuttcloud.png" /&gt;
+The &lt;strong&gt;Madrid Chapter&lt;/strong&gt; would like to give special thanks to &lt;a href="https://www.shuttlecloud.com/"&gt;ShuttleCloud&lt;/a&gt; for sponsoring the February meetup.&lt;/p&gt;
 </content>
   </entry>
 </feed>
