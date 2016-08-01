@@ -5,10 +5,41 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2016-07-05T20:00:00-04:00</updated>
+  <updated>2016-07-31T20:00:00-04:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>August Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2016/news/august-meetups/"/>
+    <id>http://papers-we-love.github.io/2016/news/august-meetups/</id>
+    <published>2016-07-31T20:00:00-04:00</published>
+    <updated>2016-08-01T01:00:36-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for August across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chattanooga 8/2&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Chattanooga/events/230880604/"&gt;Brent Spell on Computing Extremely Accurate Quantiles Using tDigests&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Toronto 8/3&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/232763465/"&gt;Duffy O'Craven on The World's Fastest Scrabble Program&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vienna 8/8&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Vienna/events/232405289/"&gt;Machine Learning with Google Tensorflow&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 8/11&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/232475084/"&gt;: Tango: Distributed Data Structures over a Shared Log&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Saint Louis 8/15&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-in-saint-louis/events/232754926/"&gt;No Silver Bullet—Essence and Accident in Software Engineering&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Francisco 8/17&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-too/events/232465142/"&gt;Armon Dadgar on Vivaldi: Decentralized Network Coordinate System&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Montréal 8/25&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Montreal/events/232761949/"&gt;Nanopass Compiler Framework&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the August meetup.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Papers We Love - QCon NYC Edition w/ Evelina, Eric, Ines, &amp; Caitie </title>
     <link rel="alternate" href="http://papers-we-love.github.io/2016/video/evelina-eric-ines-caitie/"/>
@@ -243,50 +274,6 @@
 &lt;hr /&gt;
 
 &lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the June meetup.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Andrew Louis on The Memex and designing the Internet before digital computers</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2016/video/andrew-louis-on-the-memex-and-designing-the-internet-before-digital-computers/"/>
-    <id>http://papers-we-love.github.io/2016/video/andrew-louis-on-the-memex-and-designing-the-internet-before-digital-computers/</id>
-    <published>2016-05-15T20:00:00-04:00</published>
-    <updated>2016-05-17T08:55:40-04:00</updated>
-    <author>
-      <name>Joshua</name>
-    </author>
-    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/x2Z3Ev79FI0" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id="toronto---april-6-2016"&gt;Toronto - April 6, 2016&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/229518049/"&gt;http://www.meetup.com/Papers-We-Love-Toronto/events/229518049/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="andrew-louis-on-the-memex-and-designing-the-internet-before-digital-computershttpwwwtheatlanticcommagazinearchive194507as-we-may-think303881"&gt;Andrew Louis on &lt;a href="http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/"&gt;The Memex and designing the Internet before digital computers&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;Fresh from his experiences during World War 2, scientist Vannevar Bush wrote an essay entitled "As We May Think" (1945) about a physical device that could help people deal with information overload with a hope that it could prevent our species from accidentally destroying itself. His “Memex” would store and organize an individual’s library and allow for annotating, linking, and sharing with others. In an era when “computer” meant a room full of people manually calculating numbers, Bush’s gave us a vision of how computers could empower individuals.&lt;/p&gt;
-
-&lt;p&gt;We’ll explore:&lt;/p&gt;
-
-&lt;p&gt;• The state of computing at the time the paper was written.&lt;/p&gt;
-
-&lt;p&gt;• The nature of Bush’s device and his technical solutions for retrieving, annotating, and linking information (mechanical algorithms using microfilm!)&lt;/p&gt;
-
-&lt;p&gt;• How the paper directly lead to the first PCs and creation of the internet and in particular, its influence on Douglas Engelbart's work in the 1960s (the person who pioneered GUIs, the computer mouse, e-mail, computer networking, and much else.)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Though not originally published in an academic journal, Bush’s essay is one of the most cited pieces of literature in computer science history.&lt;/p&gt;
-
-&lt;p&gt;Link: &lt;a href="http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/"&gt;http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If you prefer an abridged version with goofy diagrams, you’re in luck: &lt;a href="http://bit.ly/1FNuTQz"&gt;http://bit.ly/1FNuTQz&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Andrew Louis is software engineer from Toronto. After graduating from Computer Science at UofT, he co-founded and CTO’d ShopLocket, an ecommerce service which was acquired in 2014. He is currently working on a secret new project not terribly unrelated to the Memex.&lt;/p&gt;
 </content>
   </entry>
 </feed>
