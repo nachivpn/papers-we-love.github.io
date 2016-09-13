@@ -5,10 +5,72 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2016-09-09T20:00:00-04:00</updated>
+  <updated>2016-09-12T20:00:00-04:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>David Nolen on Parsing With Derivatives</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2016/video/david-nolen-parsing-with-derivatives/"/>
+    <id>http://papers-we-love.github.io/2016/video/david-nolen-parsing-with-derivatives/</id>
+    <published>2016-09-12T20:00:00-04:00</published>
+    <updated>2016-09-13T13:00:09-04:00</updated>
+    <author>
+      <name>The Organization</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/FKiEsJiTMtI" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---august-24-2016"&gt;New York - August 24, 2016&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;David Nolen on Parsing With Derivatives&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://www.meetup.com/papers-we-love/events/233240967/"&gt;http://www.meetup.com/papers-we-love/events/233240967/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://bit.ly/2cRG1j0"&gt;Parsing with Derivatives: A Functional Pearl&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/2cqiMLx"&gt;David Nolen on Parsing With Derivatives&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/2cfLnc1"&gt;David Nolen on Parsing With Derivatives&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;PWL References:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href="https://youtu.be/ZzsK8Am6dKU"&gt;Parsing with Derivatives by Matt Might (video)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="http://matt.might.net/articles/parsing-with-derivatives/"&gt;Yacc is dead: An update (post by Matt Might)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="http://arxiv.org/abs/1604.04695"&gt;On the Complexity and Performance of Parsing with Derivatives (follow-up)&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We present a functional approach to parsing unrestricted context-free grammars based on &lt;a href="https://en.wikipedia.org/wiki/Brzozowski_derivative"&gt;Brzozowski's derivative of regular expressions&lt;/a&gt;. If we consider context-free grammars as recursive regular expressions, Brzozowski's equational theory extends without modification to context-free grammars (and it generalizes to parser combinators). The supporting actors in this story are three concepts familiar to functional programmers - laziness, memoization and fixed points; these allow Brzozowski's original equations to be transliterated into purely functional code in about 30 lines spread over three functions.&lt;/p&gt;
+
+&lt;p&gt;Yet, this almost impossibly brief implementation has a drawback: its performance is sour - in both theory and practice. The culprit? Each derivative can double the size of a grammar, and with it, the cost of the next derivative.&lt;/p&gt;
+
+&lt;p&gt;Fortunately, much of the new structure inflicted by the derivative is either dead on arrival, or it dies after the very next derivative. To eliminate it, we once again exploit laziness and memoization to transliterate an equational theory that prunes such debris into working code. Thanks to this compaction, parsing times become reasonable in practice.&lt;/p&gt;
+
+&lt;p&gt;We equip the functional programmer with two equational theories that, when combined, make for an abbreviated understanding and implementation of a system for parsing context-free languages.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://swannodette.github.io/"&gt;David Nolen&lt;/a&gt; (&lt;a href="https://twitter.com/swannodette/"&gt;@swannodette&lt;/a&gt;) is a Software Engineer for &lt;a href="http://cognitect.com/"&gt;Cognitect&lt;/a&gt; and the lead developer of &lt;a href="https://github.com/clojure/clojurescript"&gt;ClojureScript&lt;/a&gt;. He likes making music, &lt;a href="http://swannodette.github.io/baduk/baduk/2016/01/08/hello-baduk.html"&gt;playing Go&lt;/a&gt;, and reading interesting papers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fpaperswelove%2Fdavid-nolen-on-parsing-with-derivatives%2F&amp;amp;hide_cover=1&amp;amp;mini=1" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe class="video" allowfullscreen="true" allowtransparency="true" frameborder="0" height="596" id="talk_frame_358865" mozallowfullscreen="true" src="//speakerdeck.com/player/e0403b0dcc6c41828151d5e449b7853c" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="710"&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="http://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;, and, host, &lt;a href="https://careers.twitter.com/en/locations/new-york.html"&gt;Twitter NYC&lt;/a&gt;, for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
   <entry>
     <title>Félix López on Epidemic Broadcast Trees</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2016/video/felix-lopez-introduction-to-gossip-protocols/"/>
@@ -64,7 +126,7 @@
     <link rel="alternate" href="http://papers-we-love.github.io/2016/news/september-meetups/"/>
     <id>http://papers-we-love.github.io/2016/news/september-meetups/</id>
     <published>2016-08-31T20:00:00-04:00</published>
-    <updated>2016-09-13T07:00:38-04:00</updated>
+    <updated>2016-09-13T13:00:42-04:00</updated>
     <author>
       <name>Joshua</name>
     </author>
@@ -105,7 +167,7 @@
     <link rel="alternate" href="http://papers-we-love.github.io/2016/video/deniz-cr-wes-tr/"/>
     <id>http://papers-we-love.github.io/2016/video/deniz-cr-wes-tr/</id>
     <published>2016-08-18T20:00:00-04:00</published>
-    <updated>2016-08-19T12:27:55-04:00</updated>
+    <updated>2016-09-13T13:00:09-04:00</updated>
     <author>
       <name>The Organization</name>
     </author>
@@ -295,49 +357,6 @@
 &lt;/p&gt;
 
 &lt;hr /&gt;
-</content>
-  </entry>
-  <entry>
-    <title>July Meetups</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2016/news/july-meetups/"/>
-    <id>http://papers-we-love.github.io/2016/news/july-meetups/</id>
-    <published>2016-06-30T20:00:00-04:00</published>
-    <updated>2016-07-31T19:00:35-04:00</updated>
-    <author>
-      <name>Joshua</name>
-    </author>
-    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for July across a number of our chapters:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Vienna 7/4&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Vienna/events/232042988/"&gt;Clustering of time series is meaningless&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Chattanooga 7/5&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Chattanooga/events/231948068/"&gt;Lang Martin on Subtyping, Subclassing, and Trouble with OOP&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Toronto 7/6&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Toronto/events/232228762/"&gt;Suhail Shergill on Semantics of Probabilistic Programs&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Seattle 7/14&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/231423465/"&gt;: The Art of the Propagator&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;San Francisco 7/14&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-too/events/228341271/"&gt;Paul Borrill on Time clocks and the reordering of events&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Saint Louis 7/18&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-in-saint-louis/events/230831412/"&gt;Arrow's Impossibility Theorem&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Montréal 7/20&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Montreal/events/232100387/"&gt;MultipleScattering Microfacet BSDFs with the Smith Model&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Munich 7/27&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Munich/events/232371814/"&gt;An Introduction to Statistical Relational Learning (SRL)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;London 7/27&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-London/events/232484664/"&gt;Tom Hall on Plank's "A Tutorial on ReedSolomon Coding for Fault-Tolerance…"&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;New York  7/27&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love/events/231862215/"&gt;Deniz Altınbüken on Chain Replication (old and new) &amp;amp; a Mini with Wes Chow&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Portland 7/27&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-PDX/events/232258136/"&gt;Seth Pellegrino on "In Search of an Understandable Consensus Algorithm" (Raft)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Los Angeles 7/27&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-LA/events/232650720/"&gt;Sam Lecuyer on GOTO (Considered Harmful)+&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Boston 7/28&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Boston-Cambridge/events/232255392/"&gt;Tim Riser on Mastering the Game of Go with Deep Neural Networks &amp;amp; Tree Search&lt;/a&gt;
- &lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. We would like to give additional thanks to &lt;a href="http://dev.theladders.com"&gt;The Ladders&lt;/a&gt; and &lt;a href="http://engineering.tumblr.com"&gt;Tumblr&lt;/a&gt; and for providing food/refreshments and facilities for the July meetup.&lt;/p&gt;
 </content>
   </entry>
 </feed>
