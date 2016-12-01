@@ -5,10 +5,41 @@
   <id>http://papers-we-love.github.io/</id>
   <link href="http://papers-we-love.github.io/"/>
   <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
-  <updated>2016-10-31T20:00:00-04:00</updated>
+  <updated>2016-11-30T19:00:00-05:00</updated>
   <author>
     <name>Papers We Love</name>
   </author>
+  <entry>
+    <title>December Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2016/news/december-meetups/"/>
+    <id>http://papers-we-love.github.io/2016/news/december-meetups/</id>
+    <published>2016-11-30T19:00:00-05:00</published>
+    <updated>2016-12-01T01:00:39-05:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for December across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 12/1&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/235218146/"&gt;: Boruta &amp;amp;&amp;amp; Maglev&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chattanooga 12/6&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/235597854/"&gt;Josh Ziegler on Abductive Understanding of Dialogues…&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;cambridge  12/7&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Boston-Cambridge/events/235786123/"&gt;You are not expected to understand this  Arun Thomas on Unix Process Switching&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Toronto 12/7&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Toronto/events/235901417/"&gt;David Kua on The Weakest Failure Detector for Solving Consensus&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Utrecht 12/12&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-utrecht/events/235323489/"&gt;QuickCheck: a lightweight tool for random testing Haskell programs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Francisco 12/15&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-too/events/235107885/"&gt;Peter Alvaro on "Causes and Explanations: A StructuralModel Approach"&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fairfax 12/28&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-DC-NoVA/events/235715763/"&gt;Monthly Meeting&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2016&lt;/a&gt;!&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>November Meetups</title>
     <link rel="alternate" href="http://papers-we-love.github.io/2016/news/november-meetups/"/>
@@ -261,53 +292,6 @@
 &lt;p&gt;We will talk about the paper "Epidemic Broadcast Trees" by J. Leitão, J. Pereira, and L. Rodrigues.&lt;/p&gt;
 
 &lt;p&gt;This paper proposes an integrated broadcast scheme that combines both Gossip protocols and deterministic tree-based protocols. The paper proposes a new protocol "Plumtree", a derivative of which is now used by Riak for gossiping bucket properties.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>September Meetups</title>
-    <link rel="alternate" href="http://papers-we-love.github.io/2016/news/september-meetups/"/>
-    <id>http://papers-we-love.github.io/2016/news/september-meetups/</id>
-    <published>2016-08-31T20:00:00-04:00</published>
-    <updated>2016-09-30T19:00:39-04:00</updated>
-    <author>
-      <name>Joshua</name>
-    </author>
-    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for September across a number of our chapters:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pune 9/2&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Doo-Things/events/233350272/"&gt;Cross Post: Startup Weekend Pune Powered by Google for Entrepreneurs&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Chattanooga 9/6&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Chattanooga/events/233440211/"&gt;Physical impossibility of consensus of death in the mind of someone faulty&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Boston 9/8&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Boston-Cambridge/events/232255458/"&gt;Jonathan Schuster on Programmatic and Direct Manipulation, Together at Last&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Seattle 9/8&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Seattle/events/233068249/"&gt;: A New Implementation Technique for Applicative Languages&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Madrid 9/14&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Madrid/events/233680763/"&gt;Causality is simple&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Vienna 9/19&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Vienna/events/233227320/"&gt;Learning to Forget: Continual Prediction with LSTM&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Utrecht 9/19&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-utrecht/events/233665871/"&gt;Meetup : TLA+  a specification language for concurrent and distributed systems&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Saint Louis 9/19&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-in-saint-louis/events/233418366/"&gt;RAPPOR: Randomized Aggregatable PrivacyPreserving Ordinal Response&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Montréal 9/21&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Montreal/events/233830736/"&gt;Dynamic Time Warping&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;94107 9/22&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love-too/events/232465152/"&gt;Tony Arcieri on A Protocol for Interledger Payments&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Fairfax 9/28&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-DC-NoVA/events/233622175/"&gt;PwL Conf Recap/Networking&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Winnipeg 9/28&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-Winnipeg/events/233820636/"&gt;The Moral Character of Cryptographic Work&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Portland 9/28&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-PDX/events/234072402/"&gt;Lisa Orr on "Top  algorithms in data mining"&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Los Angeles 9/28&lt;/strong&gt;: &lt;a href="http://www.meetup.com/Papers-We-Love-LA/events/234268294/"&gt;Jim Benvenuto on EPITAXIS&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;New York  9/29&lt;/strong&gt;: &lt;a href="http://www.meetup.com/papers-we-love/events/233588742/"&gt;Elizabeth Ramirez on A New Approach to Linear Filtering and Prediction Problems&lt;/a&gt;
- &lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2016&lt;/a&gt;!&lt;/p&gt;
 </content>
   </entry>
 </feed>
