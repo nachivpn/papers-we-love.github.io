@@ -1,6 +1,38 @@
+# coding: utf-8
 require 'sanitize'
 
 # Event parsing functions for Meetup.com API data
+
+def weight_chapters(data)
+  chapters = data.chapters
+  chapters.keys.map do |chapter|
+    chapter_json = data[chapter]
+    result = {:id => chapter, :weight => 0, :title => chapters[chapter]['title']}
+    unless chapter_json.nil? || chapter == "seoul"
+      result[:weight] = chapter_json.keys.select { |id| !is_out_of_range(chapter_json[id]['time']) }.count
+    end
+    result
+  end
+end
+
+def is_out_of_range(d)
+  o = d || 0
+  t = Time.at(o / 1000)
+  n = Time.now
+  t.year > n.year || ((t.year == n.year) && (t.month > n.month))
+end
+
+# Sort the events hash by time and filter out any events happening in the future
+def process_event_hash(events)
+  unless events.nil?
+    events
+      .values
+      .reject { |i| i.nil? || is_out_of_range(i.time)}
+      .sort_by! { |i| i.time }
+      .reverse
+  end
+end
+
 
 # Rever chronologically sort events (newest on top)
 def sort_events(events)
@@ -15,18 +47,19 @@ end
 # Build up address and map strings for meta div
 def build_address(venue)
   vname = venue['name']
-  add1 = venue['address_1']
-  add2 = venue['address_2']
+  add1 = venue['address1']
+  add2 = venue['address2']
   city = venue['city']
+  postal_code = venue['postalCode']
   address = [add1, add2].reject { |i| i.nil? }.join ', '
   unless city.nil?
-    address = "#{address}, #{city}"
+    address = "#{address}, #{city} #{postal_code}"
   end
   unless vname.nil?
-    address = "#{vname} - #{address}"
+    address = "#{vname} - #{address} #{postal_code}"
   end
 
-  gmap = "#{add1} #{add2} #{city}".squeeze(' ').gsub(/[\s]/, '+')
+  gmap = "#{add1} #{add2} #{city} #{postal_code}".squeeze(' ').gsub(/[\s]/, '+')
   glink = "<a class=\"event-map\" href=\"https://www.google.com/maps/search/#{gmap}\">Map</a>"
 
   [address, glink]
@@ -34,7 +67,9 @@ end
 
 # Parse event date with utc offset
 def event_date(event)
-  Time.at((event['time'] + event['utc_offset'] ) / 1000).utc.to_datetime
+  time = event['time'] || 0
+  offset = event['utcOffset'] || 0
+  Time.at((time + offset) / 1000).utc.to_datetime
 end
 
 def format_date(datetime)
@@ -44,11 +79,15 @@ end
 # We truncate the descriptions at 1000 chars, clean up the HTML
 # and add a read more link
 def filter_description(text, readmore, url)
-  _text = Sanitize.fragment(text[0...1000] + '&hellip;', Sanitize::Config::RELAXED)
-  if readmore && url
-    _text = "#{_text} <p><a class=\"event-read-more\" href=\"#{url}\">#{readmore}</a></p>"
+  if text
+    _text = Sanitize.fragment(text[0...1000] + '&hellip;', Sanitize::Config::RELAXED)
+    if readmore && url
+      _text = "#{_text} <p><a class=\"event-read-more\" href=\"#{url}\">#{readmore}</a></p>"
+    end
+    _text
+  else
+    "<p><a class=\"event-read-more\" href=\"#{url}\">#{readmore}</a></p>"
   end
-  _text
 end
 
 # Look for a photos with a _SPEAKER_ caption
@@ -81,10 +120,8 @@ end
 # Pack all the information into a hash and send back
 def process_fields(event)
   h = Hash.new
-  h[:url] = event['event_url']
-  h[:event_title] = clean_title(event['name'])
-
-  h[:group] = event['group']
+  h[:url] = event['url']
+  h[:event_title] = event['title']
 
   h[:city] = ''
 
@@ -107,13 +144,21 @@ def process_fields(event)
                                   h[:url])
   end
 
-  photo = ''
-  if event['photos']
-    img = event_photo(event['photos'])
-    photo = "<a class=\"event-photo-link\" href=\"#{h[:url]}\">#{img}</a>"
-  end
-  h[:photo] = photo
+  h[:photo] = event['photos']
   h[:time] = event_date(event)
   h[:formatted_time] = format_date(h[:time])
-  h
+
+  result = h
+
+  if h[:city] == "Seoul" || h[:city] == "서울"
+    if /papers we love/.match(h[:event_title].downcase).nil?
+      result = nil
+    end
+  end
+
+  if !h[:city] || h[:city].empty?
+    result = nil
+  end
+
+  result
 end

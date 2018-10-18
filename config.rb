@@ -1,4 +1,10 @@
 require 'lib/event-handler.rb'
+require 'lib/build_cleaner'
+
+## We have to blow away the /build folder before deploys
+configure :build do
+  activate :build_cleaner
+end
 
 ###
 # Blog settings
@@ -30,7 +36,7 @@ end
 
 page "/feed.xml", layout: false
 
-page '/pwlconf2016/*', layout: 'pwlconf'
+page '/pwlconf2017/*', layout: 'pwlconf'
 
 ###
 # OpenGraph Settings
@@ -80,8 +86,8 @@ end
 @chapters = YAML.load_file('source/chapters.yml')
 
 # Chapter pages
-@chapters.each do |chapter|
-  proxy "/chapter/#{chapter['name']}.html", "/chapter.html", :locals => { :chapter => chapter }, :ignore => true
+data.chapters.keys.reject { |i| i.nil? }.each do |chapter|
+  proxy "/chapter/#{chapter}.html", "/chapter.html", :locals => { :chapter => chapter, :events => data[chapter] }, :ignore => true
 end
 
 # Chapter index
@@ -120,7 +126,7 @@ set :js_dir, 'javascripts'
 set :images_dir, 'images'
 
 configure :development do
-  activate :livereload
+  #activate :livereload
 end
 
 # Build-specific configuration

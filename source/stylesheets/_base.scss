@@ -186,6 +186,12 @@ footer.nav-footer {
     color: #999;
     font-weight: normal;
     font-style: italic;
+
+    sup {
+      font-size: .5em;
+      font-style: normal;
+      margin-left: 2px;
+    }
   }
 
   @include media($desktop) {
@@ -209,9 +215,9 @@ footer.nav-footer {
 nav.pagination-controls {
   margin: 1em 0;
   padding: .5em 1.5em;
-  @include display(flex);
-  @include flex-direction(row);
-  @include justify-content(center);
+  display: flex;
+  flex-direciton: row;
+  justify-content: row;
   background: #eee;
   border-radius: 1em;
   a {
@@ -329,6 +335,13 @@ h2.bannerHeader {
 
   }
 
+  img.droit {
+    @include media($desktop) {
+      margin-right: 1em;
+      margin-top: .5em;
+    }
+  }
+
   img.comcast {
     @include media($desktop) {
       margin-right: 1.3em;
@@ -353,5 +366,4 @@ h2.bannerHeader {
     }
 
   }
-
 }
